@@ -1,0 +1,5528 @@
+job_id,skill_name
+1,Tableau
+1,Azure
+1,Statistics
+1,Snowflake
+1,Git
+1,Docker
+1,Kubernetes
+1,Airflow
+2,R
+2,AWS
+2,Google Cloud
+3,Excel
+3,AWS
+3,Google Cloud
+3,Machine Learning
+3,Spark
+3,Docker
+4,Python
+4,R
+4,Machine Learning
+4,Spark
+4,Snowflake
+4,Airflow
+5,Power BI
+5,Machine Learning
+5,Spark
+5,Kubernetes
+6,Python
+6,AWS
+6,Looker
+6,Git
+6,Docker
+7,Python
+7,Tableau
+7,Azure
+7,Machine Learning
+7,Kubernetes
+8,R
+8,Google Cloud
+8,Machine Learning
+8,Statistics
+8,Hadoop
+8,Snowflake
+8,Airflow
+9,Python
+9,Power BI
+9,R
+9,AWS
+9,Machine Learning
+9,Statistics
+9,Looker
+10,SQL
+10,Tableau
+10,AWS
+10,Azure
+10,Snowflake
+10,Looker
+11,Excel
+11,R
+11,AWS
+11,Azure
+11,Machine Learning
+11,Statistics
+11,Spark
+12,Excel
+12,AWS
+12,Google Cloud
+12,Statistics
+12,Spark
+12,Jira
+12,Kubernetes
+13,Excel
+13,Tableau
+13,Power BI
+13,AWS
+13,Docker
+14,Excel
+14,R
+14,Azure
+14,Git
+14,Kubernetes
+15,Power BI
+15,R
+15,Airflow
+16,Tableau
+16,Azure
+16,Google Cloud
+16,Statistics
+16,Hadoop
+16,Git
+16,Docker
+16,Airflow
+17,Tableau
+17,Azure
+17,Machine Learning
+17,Spark
+17,Hadoop
+18,Power BI
+18,Statistics
+18,Jira
+18,Git
+19,Excel
+19,Power BI
+19,Machine Learning
+19,Statistics
+19,Spark
+19,Git
+19,Airflow
+20,Excel
+20,Azure
+20,Jira
+20,Kubernetes
+21,SQL
+21,Python
+21,Power BI
+21,Machine Learning
+21,Git
+21,Docker
+22,AWS
+22,Azure
+22,Spark
+22,Docker
+22,Kubernetes
+23,SQL
+23,Python
+23,Azure
+23,Google Cloud
+23,Machine Learning
+23,Statistics
+23,Looker
+23,Airflow
+24,Tableau
+24,Azure
+24,Google Cloud
+24,Machine Learning
+24,Statistics
+25,Python
+25,Tableau
+25,Azure
+25,Google Cloud
+25,Machine Learning
+25,Snowflake
+25,Git
+25,Docker
+26,SQL
+26,Excel
+26,AWS
+26,Google Cloud
+26,Spark
+26,Hadoop
+26,Jira
+27,Excel
+27,Tableau
+27,AWS
+27,Jira
+27,Git
+28,Python
+28,Google Cloud
+28,Statistics
+28,Spark
+28,Docker
+29,Tableau
+29,Docker
+29,Kubernetes
+30,Excel
+30,R
+30,AWS
+30,Google Cloud
+30,Git
+31,R
+31,Google Cloud
+31,Airflow
+32,SQL
+32,R
+32,AWS
+32,Machine Learning
+32,Statistics
+32,Snowflake
+32,Airflow
+33,Python
+33,Tableau
+33,Azure
+33,Statistics
+33,Spark
+33,Hadoop
+33,Jira
+34,Python
+34,Tableau
+34,Power BI
+34,Docker
+34,Airflow
+35,SQL
+35,R
+35,Google Cloud
+35,Hadoop
+35,Looker
+35,Jira
+35,Git
+35,Airflow
+36,AWS
+36,Azure
+36,Machine Learning
+36,Hadoop
+36,Looker
+36,Git
+37,Excel
+37,Power BI
+37,AWS
+37,Kubernetes
+38,SQL
+38,R
+38,Jira
+38,Git
+39,Python
+39,R
+39,AWS
+39,Google Cloud
+39,Spark
+39,Looker
+40,R
+40,Google Cloud
+40,Spark
+40,Hadoop
+40,Git
+40,Kubernetes
+40,Airflow
+41,Python
+41,AWS
+41,Azure
+41,Google Cloud
+41,Docker
+41,Airflow
+42,Excel
+42,AWS
+42,Machine Learning
+42,Statistics
+42,Snowflake
+42,Kubernetes
+42,Airflow
+43,Power BI
+43,R
+43,Looker
+44,SQL
+44,Python
+44,Azure
+44,Machine Learning
+44,Snowflake
+44,Jira
+44,Git
+44,Airflow
+45,SQL
+45,AWS
+45,Hadoop
+45,Git
+46,Python
+46,R
+46,Azure
+46,Google Cloud
+46,Machine Learning
+46,Git
+47,SQL
+47,Azure
+47,Machine Learning
+47,Statistics
+47,Snowflake
+47,Git
+47,Docker
+48,SQL
+48,Excel
+48,Statistics
+48,Spark
+48,Docker
+49,R
+49,Azure
+49,Statistics
+49,Hadoop
+49,Looker
+49,Kubernetes
+50,SQL
+50,R
+50,Google Cloud
+50,Machine Learning
+50,Statistics
+50,Snowflake
+51,Azure
+51,Spark
+51,Looker
+51,Git
+52,Power BI
+52,R
+52,AWS
+52,Azure
+52,Spark
+52,Hadoop
+52,Docker
+52,Airflow
+53,SQL
+53,R
+53,Machine Learning
+53,Hadoop
+53,Git
+53,Docker
+53,Airflow
+54,Google Cloud
+54,Looker
+54,Docker
+55,Tableau
+55,Power BI
+55,Google Cloud
+55,Machine Learning
+55,Spark
+55,Hadoop
+55,Git
+55,Kubernetes
+56,SQL
+56,Azure
+56,Machine Learning
+56,Spark
+56,Hadoop
+56,Jira
+56,Docker
+57,Python
+57,Tableau
+57,Power BI
+57,AWS
+57,Spark
+57,Looker
+57,Jira
+57,Git
+58,Tableau
+58,Machine Learning
+58,Statistics
+58,Snowflake
+58,Git
+58,Kubernetes
+59,Excel
+59,Power BI
+59,AWS
+59,Hadoop
+59,Looker
+60,Tableau
+60,Power BI
+60,AWS
+60,Azure
+60,Looker
+60,Jira
+60,Kubernetes
+61,Excel
+61,Tableau
+61,R
+61,Azure
+61,Hadoop
+61,Looker
+61,Docker
+61,Airflow
+62,Power BI
+62,Snowflake
+62,Airflow
+63,SQL
+63,Excel
+63,R
+64,Python
+64,R
+64,Google Cloud
+64,Git
+64,Kubernetes
+65,Python
+65,Tableau
+65,Machine Learning
+65,Hadoop
+66,Azure
+66,Statistics
+66,Spark
+66,Snowflake
+66,Looker
+66,Docker
+66,Kubernetes
+67,Tableau
+67,Power BI
+67,R
+67,AWS
+67,Statistics
+67,Looker
+67,Git
+67,Airflow
+68,Power BI
+68,R
+68,Docker
+69,SQL
+69,Excel
+69,Tableau
+69,Power BI
+69,Google Cloud
+69,Snowflake
+69,Docker
+69,Kubernetes
+70,Looker
+70,Docker
+70,Airflow
+71,Google Cloud
+71,Statistics
+71,Kubernetes
+71,Airflow
+72,SQL
+72,Python
+72,Tableau
+72,Power BI
+72,R
+72,Looker
+72,Git
+73,Python
+73,Tableau
+73,AWS
+73,Google Cloud
+73,Spark
+73,Hadoop
+73,Jira
+73,Git
+74,Python
+74,R
+74,Google Cloud
+74,Statistics
+74,Spark
+74,Jira
+74,Kubernetes
+75,SQL
+75,Power BI
+75,R
+75,Machine Learning
+75,Hadoop
+75,Git
+76,SQL
+76,Python
+76,Excel
+76,Git
+76,Kubernetes
+77,Statistics
+77,Hadoop
+77,Jira
+77,Docker
+78,Tableau
+78,Google Cloud
+78,Machine Learning
+78,Docker
+79,AWS
+79,Google Cloud
+79,Jira
+79,Docker
+80,SQL
+80,Excel
+80,Tableau
+80,Power BI
+80,R
+80,Azure
+80,Spark
+80,Airflow
+81,SQL
+81,Python
+81,Machine Learning
+81,Spark
+81,Hadoop
+82,Excel
+82,AWS
+82,Statistics
+82,Spark
+82,Jira
+83,Excel
+83,Statistics
+83,Kubernetes
+84,SQL
+84,Machine Learning
+84,Spark
+84,Snowflake
+84,Kubernetes
+85,Tableau
+85,Power BI
+85,R
+85,AWS
+85,Google Cloud
+85,Statistics
+85,Snowflake
+85,Looker
+86,R
+86,Spark
+86,Hadoop
+86,Jira
+86,Git
+87,Tableau
+87,R
+87,AWS
+87,Machine Learning
+87,Statistics
+87,Snowflake
+87,Airflow
+88,Tableau
+88,Azure
+88,Google Cloud
+88,Machine Learning
+88,Spark
+88,Hadoop
+88,Jira
+89,SQL
+89,Excel
+89,AWS
+89,Machine Learning
+89,Hadoop
+89,Jira
+89,Kubernetes
+89,Airflow
+90,Python
+90,R
+90,Jira
+90,Docker
+91,SQL
+91,Excel
+91,Hadoop
+91,Docker
+91,Airflow
+92,Excel
+92,Machine Learning
+92,Statistics
+92,Looker
+92,Git
+93,SQL
+93,Python
+93,Statistics
+93,Hadoop
+93,Jira
+93,Kubernetes
+93,Airflow
+94,SQL
+94,Excel
+94,Tableau
+94,Machine Learning
+94,Snowflake
+94,Git
+94,Docker
+95,Tableau
+95,Machine Learning
+95,Statistics
+95,Hadoop
+95,Snowflake
+96,Tableau
+96,Power BI
+96,Azure
+96,Google Cloud
+96,Statistics
+96,Snowflake
+96,Kubernetes
+96,Airflow
+97,R
+97,AWS
+97,Spark
+97,Looker
+97,Jira
+98,Python
+98,R
+98,Statistics
+98,Spark
+98,Jira
+98,Git
+98,Docker
+99,Power BI
+99,R
+99,Azure
+99,Jira
+100,SQL
+100,Python
+100,Excel
+100,Tableau
+100,Spark
+100,Snowflake
+100,Jira
+100,Git
+101,Tableau
+101,Spark
+101,Looker
+101,Kubernetes
+102,SQL
+102,Python
+102,Tableau
+102,Spark
+102,Snowflake
+103,Power BI
+103,Azure
+103,Google Cloud
+103,Statistics
+103,Spark
+103,Airflow
+104,Python
+104,Tableau
+104,Hadoop
+105,Excel
+105,Power BI
+105,Statistics
+105,Hadoop
+105,Jira
+105,Docker
+105,Airflow
+106,Excel
+106,Power BI
+106,Google Cloud
+106,Git
+106,Docker
+106,Kubernetes
+106,Airflow
+107,Excel
+107,AWS
+107,Azure
+107,Spark
+107,Hadoop
+107,Snowflake
+107,Looker
+108,SQL
+108,Excel
+108,Machine Learning
+108,Statistics
+108,Spark
+108,Hadoop
+108,Snowflake
+108,Airflow
+109,SQL
+109,Excel
+109,Tableau
+109,Power BI
+109,R
+109,Hadoop
+109,Looker
+110,Python
+110,R
+110,Jira
+111,Tableau
+111,R
+111,Azure
+111,Spark
+111,Hadoop
+111,Snowflake
+111,Airflow
+112,Excel
+112,Tableau
+112,Azure
+113,SQL
+113,Python
+113,Tableau
+113,R
+113,Google Cloud
+113,Machine Learning
+113,Hadoop
+114,R
+114,AWS
+114,Spark
+114,Kubernetes
+115,Excel
+115,AWS
+115,Machine Learning
+115,Snowflake
+115,Looker
+115,Git
+115,Kubernetes
+116,Excel
+116,R
+116,AWS
+116,Kubernetes
+117,Azure
+117,Statistics
+117,Snowflake
+117,Jira
+117,Docker
+118,Power BI
+118,Statistics
+118,Spark
+119,SQL
+119,Python
+119,Excel
+119,Power BI
+119,R
+119,Looker
+119,Jira
+120,SQL
+120,R
+120,Google Cloud
+120,Statistics
+120,Hadoop
+120,Docker
+120,Kubernetes
+121,Python
+121,Excel
+121,AWS
+121,Machine Learning
+121,Looker
+121,Jira
+121,Kubernetes
+122,Power BI
+122,Statistics
+122,Hadoop
+122,Kubernetes
+123,Python
+123,Excel
+123,AWS
+123,Spark
+123,Git
+124,Python
+124,Excel
+124,Tableau
+124,Looker
+124,Kubernetes
+124,Airflow
+125,Tableau
+125,Machine Learning
+125,Hadoop
+126,Python
+126,Excel
+126,Tableau
+126,Azure
+126,Machine Learning
+127,Power BI
+127,Google Cloud
+127,Machine Learning
+127,Jira
+127,Git
+127,Docker
+128,SQL
+128,Python
+128,Excel
+128,Tableau
+128,AWS
+128,Jira
+128,Git
+129,AWS
+129,Jira
+129,Git
+129,Kubernetes
+130,Power BI
+130,Google Cloud
+130,Snowflake
+131,Statistics
+131,Spark
+131,Looker
+131,Git
+132,Power BI
+132,Google Cloud
+132,Machine Learning
+132,Snowflake
+132,Git
+133,Python
+133,Power BI
+133,Azure
+133,Spark
+133,Snowflake
+133,Git
+134,Tableau
+134,AWS
+134,Azure
+134,Machine Learning
+134,Spark
+134,Looker
+134,Jira
+134,Airflow
+135,Tableau
+135,Azure
+135,Hadoop
+135,Looker
+135,Kubernetes
+136,SQL
+136,Azure
+136,Google Cloud
+136,Git
+136,Docker
+136,Kubernetes
+137,SQL
+137,Power BI
+137,Airflow
+138,Power BI
+138,Google Cloud
+138,Snowflake
+138,Looker
+138,Git
+138,Docker
+138,Airflow
+139,Excel
+139,Tableau
+139,R
+139,AWS
+139,Google Cloud
+139,Snowflake
+139,Jira
+140,Machine Learning
+140,Statistics
+140,Spark
+140,Hadoop
+140,Snowflake
+140,Airflow
+141,Power BI
+141,Statistics
+141,Looker
+141,Kubernetes
+142,Excel
+142,Tableau
+142,R
+142,Spark
+142,Hadoop
+142,Looker
+142,Git
+142,Airflow
+143,AWS
+143,Hadoop
+143,Snowflake
+144,SQL
+144,Excel
+144,R
+144,Statistics
+144,Spark
+145,Power BI
+145,Machine Learning
+145,Hadoop
+145,Docker
+146,SQL
+146,Power BI
+146,Azure
+146,Statistics
+146,Spark
+146,Looker
+146,Docker
+147,Python
+147,Excel
+147,Hadoop
+147,Looker
+147,Kubernetes
+148,Excel
+148,Tableau
+148,Power BI
+148,R
+148,Hadoop
+148,Looker
+148,Git
+149,Python
+149,Google Cloud
+149,Snowflake
+149,Looker
+149,Kubernetes
+150,SQL
+150,Excel
+150,AWS
+150,Statistics
+151,SQL
+151,AWS
+151,Spark
+152,R
+152,AWS
+152,Google Cloud
+152,Looker
+152,Kubernetes
+152,Airflow
+153,Excel
+153,Tableau
+153,Power BI
+153,Statistics
+153,Jira
+153,Git
+153,Airflow
+154,SQL
+154,Excel
+154,Snowflake
+154,Looker
+155,SQL
+155,Tableau
+155,R
+155,AWS
+155,Azure
+155,Hadoop
+155,Kubernetes
+156,Python
+156,Tableau
+156,Machine Learning
+157,Tableau
+157,Google Cloud
+157,Statistics
+157,Looker
+157,Jira
+157,Git
+157,Docker
+158,SQL
+158,Azure
+158,Machine Learning
+158,Spark
+158,Hadoop
+158,Snowflake
+158,Kubernetes
+158,Airflow
+159,SQL
+159,Excel
+159,R
+159,Azure
+159,Machine Learning
+159,Looker
+159,Jira
+159,Kubernetes
+160,SQL
+160,Python
+160,AWS
+160,Git
+161,SQL
+161,Tableau
+161,Machine Learning
+161,Jira
+161,Git
+161,Docker
+161,Kubernetes
+161,Airflow
+162,SQL
+162,Tableau
+162,Power BI
+162,Google Cloud
+162,Statistics
+162,Kubernetes
+163,Tableau
+163,Google Cloud
+163,Machine Learning
+163,Snowflake
+163,Looker
+163,Jira
+163,Docker
+163,Kubernetes
+164,SQL
+164,Excel
+164,Snowflake
+164,Looker
+164,Jira
+165,SQL
+165,Excel
+165,R
+165,AWS
+165,Machine Learning
+165,Spark
+165,Looker
+165,Git
+166,Python
+166,Power BI
+166,AWS
+166,Machine Learning
+166,Statistics
+166,Git
+166,Docker
+166,Airflow
+167,Excel
+167,Google Cloud
+167,Machine Learning
+167,Spark
+167,Hadoop
+168,SQL
+168,AWS
+168,Azure
+168,Machine Learning
+168,Hadoop
+168,Looker
+168,Jira
+169,SQL
+169,Power BI
+169,Spark
+170,AWS
+170,Hadoop
+170,Git
+171,Python
+171,Machine Learning
+171,Hadoop
+171,Looker
+171,Airflow
+172,Python
+172,Tableau
+172,R
+172,Google Cloud
+172,Looker
+172,Jira
+173,Python
+173,R
+173,Azure
+173,Statistics
+173,Kubernetes
+174,Power BI
+174,R
+174,Statistics
+174,Spark
+174,Jira
+174,Docker
+175,Python
+175,Tableau
+175,R
+175,Statistics
+175,Spark
+175,Snowflake
+175,Git
+176,AWS
+176,Statistics
+176,Spark
+177,Tableau
+177,Statistics
+177,Spark
+177,Hadoop
+177,Jira
+177,Airflow
+178,SQL
+178,Azure
+178,Machine Learning
+178,Spark
+178,Hadoop
+178,Snowflake
+178,Looker
+179,Google Cloud
+179,Git
+179,Docker
+179,Kubernetes
+180,SQL
+180,Excel
+180,Looker
+180,Docker
+180,Kubernetes
+181,Python
+181,Excel
+181,R
+181,AWS
+181,Spark
+181,Snowflake
+182,AWS
+182,Azure
+182,Machine Learning
+182,Hadoop
+182,Jira
+182,Docker
+182,Kubernetes
+183,SQL
+183,AWS
+183,Hadoop
+183,Snowflake
+183,Jira
+183,Kubernetes
+184,SQL
+184,Statistics
+184,Spark
+184,Git
+185,Python
+185,Spark
+185,Kubernetes
+186,SQL
+186,Statistics
+186,Hadoop
+186,Snowflake
+186,Kubernetes
+187,Google Cloud
+187,Machine Learning
+187,Statistics
+187,Spark
+187,Hadoop
+187,Looker
+187,Jira
+187,Kubernetes
+188,SQL
+188,Azure
+188,Spark
+188,Looker
+188,Git
+188,Airflow
+189,Excel
+189,Power BI
+189,AWS
+189,Azure
+189,Machine Learning
+189,Statistics
+189,Looker
+189,Git
+190,SQL
+190,Tableau
+190,Statistics
+190,Looker
+190,Docker
+190,Airflow
+191,Excel
+191,AWS
+191,Machine Learning
+191,Snowflake
+191,Looker
+191,Airflow
+192,R
+192,Google Cloud
+192,Machine Learning
+192,Statistics
+192,Hadoop
+193,AWS
+193,Azure
+193,Google Cloud
+193,Spark
+193,Snowflake
+193,Git
+194,Excel
+194,Machine Learning
+194,Hadoop
+195,SQL
+195,Python
+195,Azure
+195,Machine Learning
+195,Spark
+195,Looker
+195,Git
+195,Kubernetes
+196,Python
+196,Power BI
+196,R
+196,Azure
+196,Snowflake
+196,Git
+197,SQL
+197,Tableau
+197,AWS
+197,Spark
+197,Hadoop
+197,Looker
+197,Kubernetes
+198,SQL
+198,Python
+198,Tableau
+198,Power BI
+199,Python
+199,Machine Learning
+199,Spark
+199,Airflow
+200,Power BI
+200,R
+200,Spark
+200,Hadoop
+200,Looker
+201,SQL
+201,Google Cloud
+201,Machine Learning
+201,Statistics
+201,Git
+202,Power BI
+202,Azure
+202,Google Cloud
+202,Machine Learning
+202,Snowflake
+202,Looker
+202,Jira
+202,Airflow
+203,SQL
+203,R
+203,Google Cloud
+203,Machine Learning
+203,Spark
+203,Hadoop
+203,Jira
+204,Tableau
+204,Azure
+204,Docker
+204,Airflow
+205,SQL
+205,Python
+205,R
+205,Azure
+205,Google Cloud
+205,Machine Learning
+205,Statistics
+205,Spark
+206,Python
+206,Git
+206,Docker
+206,Airflow
+207,SQL
+207,Excel
+207,R
+207,Statistics
+207,Git
+208,SQL
+208,Tableau
+208,R
+208,Kubernetes
+209,SQL
+209,R
+209,Machine Learning
+209,Looker
+209,Kubernetes
+210,Power BI
+210,Spark
+210,Jira
+210,Airflow
+211,SQL
+211,Excel
+211,AWS
+211,Azure
+211,Google Cloud
+211,Machine Learning
+211,Spark
+211,Hadoop
+212,R
+212,AWS
+212,Machine Learning
+212,Git
+213,Python
+213,Excel
+213,Machine Learning
+213,Statistics
+213,Looker
+213,Jira
+214,SQL
+214,Python
+214,Power BI
+214,Azure
+214,Snowflake
+215,Power BI
+215,AWS
+215,Google Cloud
+215,Machine Learning
+215,Snowflake
+215,Git
+215,Docker
+215,Airflow
+216,Tableau
+216,Azure
+216,Jira
+217,Python
+217,Machine Learning
+217,Spark
+218,Excel
+218,R
+218,AWS
+218,Hadoop
+218,Snowflake
+219,Excel
+219,AWS
+219,Google Cloud
+219,Statistics
+219,Snowflake
+220,SQL
+220,Machine Learning
+220,Spark
+220,Snowflake
+220,Airflow
+221,Power BI
+221,AWS
+221,Azure
+221,Git
+221,Kubernetes
+221,Airflow
+222,SQL
+222,Python
+222,Excel
+222,Tableau
+222,Power BI
+222,R
+222,Statistics
+222,Looker
+223,AWS
+223,Azure
+223,Google Cloud
+223,Spark
+223,Snowflake
+223,Jira
+223,Git
+224,SQL
+224,Tableau
+224,R
+224,Azure
+224,Kubernetes
+224,Airflow
+225,SQL
+225,Power BI
+225,Git
+225,Docker
+226,SQL
+226,Power BI
+226,Google Cloud
+227,Power BI
+227,Azure
+227,Hadoop
+227,Airflow
+228,Tableau
+228,Power BI
+228,Google Cloud
+228,Jira
+228,Git
+229,Python
+229,R
+229,Machine Learning
+229,Spark
+229,Git
+229,Airflow
+230,SQL
+230,Excel
+230,Tableau
+230,Statistics
+230,Kubernetes
+230,Airflow
+231,SQL
+231,AWS
+231,Azure
+231,Hadoop
+231,Snowflake
+232,Tableau
+232,Docker
+232,Airflow
+233,Machine Learning
+233,Spark
+233,Docker
+234,Machine Learning
+234,Statistics
+234,Hadoop
+234,Snowflake
+234,Kubernetes
+235,Python
+235,R
+235,AWS
+235,Google Cloud
+235,Hadoop
+235,Jira
+235,Git
+235,Kubernetes
+236,Tableau
+236,R
+236,AWS
+236,Google Cloud
+236,Docker
+236,Airflow
+237,SQL
+237,Python
+237,Power BI
+237,R
+237,Statistics
+237,Hadoop
+237,Git
+237,Docker
+238,Python
+238,Tableau
+238,Power BI
+238,Google Cloud
+238,Statistics
+238,Spark
+239,SQL
+239,Python
+239,Machine Learning
+239,Statistics
+239,Hadoop
+239,Snowflake
+239,Airflow
+240,Google Cloud
+240,Statistics
+240,Hadoop
+240,Jira
+241,SQL
+241,Python
+241,AWS
+241,Azure
+241,Machine Learning
+241,Statistics
+241,Spark
+241,Snowflake
+241,Git
+242,Power BI
+242,Azure
+242,Docker
+242,Kubernetes
+243,Tableau
+243,R
+243,Azure
+243,Spark
+243,Looker
+243,Git
+244,Excel
+244,AWS
+244,Azure
+244,Google Cloud
+244,Snowflake
+244,Kubernetes
+244,Airflow
+245,Python
+245,Excel
+245,Tableau
+245,Power BI
+245,R
+245,Spark
+245,Jira
+245,Kubernetes
+246,Python
+246,R
+246,AWS
+246,Azure
+246,Statistics
+246,Snowflake
+246,Docker
+246,Kubernetes
+247,Google Cloud
+247,Statistics
+247,Looker
+248,SQL
+248,Python
+248,Tableau
+248,R
+248,Google Cloud
+248,Kubernetes
+249,SQL
+249,AWS
+249,Google Cloud
+249,Snowflake
+249,Kubernetes
+249,Airflow
+250,Tableau
+250,Power BI
+250,AWS
+250,Machine Learning
+250,Hadoop
+251,Python
+251,Excel
+251,Google Cloud
+251,Machine Learning
+251,Git
+252,Azure
+252,Spark
+252,Hadoop
+252,Docker
+253,Excel
+253,AWS
+253,Spark
+253,Looker
+253,Docker
+254,Python
+254,Tableau
+254,R
+254,Google Cloud
+254,Machine Learning
+254,Snowflake
+254,Docker
+255,SQL
+255,Power BI
+255,AWS
+256,SQL
+256,Excel
+256,AWS
+256,Machine Learning
+256,Spark
+256,Git
+257,SQL
+257,Python
+257,Power BI
+257,Azure
+257,Statistics
+257,Snowflake
+257,Airflow
+258,Python
+258,Azure
+258,Machine Learning
+258,Git
+258,Docker
+259,SQL
+259,Google Cloud
+259,Jira
+259,Git
+260,Excel
+260,R
+260,AWS
+260,Hadoop
+260,Snowflake
+260,Jira
+260,Git
+261,Tableau
+261,AWS
+261,Kubernetes
+262,SQL
+262,Power BI
+262,Machine Learning
+262,Jira
+262,Git
+262,Airflow
+263,SQL
+263,Tableau
+263,Power BI
+263,AWS
+263,Google Cloud
+263,Spark
+264,Tableau
+264,Google Cloud
+264,Statistics
+264,Airflow
+265,Python
+265,Tableau
+265,AWS
+265,Google Cloud
+265,Spark
+265,Looker
+265,Git
+265,Kubernetes
+266,Python
+266,Power BI
+266,AWS
+266,Hadoop
+266,Looker
+266,Jira
+267,Tableau
+267,R
+267,Google Cloud
+267,Spark
+267,Jira
+267,Git
+267,Docker
+267,Kubernetes
+268,Python
+268,R
+268,AWS
+268,Google Cloud
+268,Looker
+269,SQL
+269,Power BI
+269,Google Cloud
+269,Snowflake
+269,Docker
+269,Kubernetes
+270,Tableau
+270,Power BI
+270,Looker
+271,Excel
+271,Machine Learning
+271,Hadoop
+271,Looker
+271,Airflow
+272,Power BI
+272,AWS
+272,Hadoop
+272,Snowflake
+272,Jira
+272,Git
+272,Docker
+272,Airflow
+273,Excel
+273,Statistics
+273,Jira
+273,Git
+273,Docker
+273,Kubernetes
+274,R
+274,AWS
+274,Azure
+274,Machine Learning
+274,Hadoop
+274,Git
+274,Airflow
+275,Excel
+275,Tableau
+275,Statistics
+275,Hadoop
+275,Looker
+275,Jira
+275,Git
+275,Kubernetes
+276,Excel
+276,Tableau
+276,R
+276,Hadoop
+276,Snowflake
+276,Looker
+276,Docker
+277,Python
+277,Tableau
+277,Power BI
+277,Statistics
+277,Snowflake
+277,Airflow
+278,Google Cloud
+278,Snowflake
+278,Jira
+278,Airflow
+279,Excel
+279,Tableau
+279,Power BI
+279,Azure
+279,Machine Learning
+279,Statistics
+279,Git
+280,Power BI
+280,AWS
+280,Google Cloud
+280,Hadoop
+280,Kubernetes
+281,Python
+281,Google Cloud
+281,Statistics
+281,Snowflake
+281,Git
+281,Airflow
+282,Azure
+282,Google Cloud
+282,Spark
+283,SQL
+283,Google Cloud
+283,Docker
+284,AWS
+284,Spark
+284,Snowflake
+285,Python
+285,Excel
+285,Tableau
+285,Power BI
+285,AWS
+285,Looker
+285,Jira
+285,Docker
+286,Machine Learning
+286,Spark
+286,Looker
+286,Docker
+286,Airflow
+287,Python
+287,AWS
+287,Docker
+287,Airflow
+288,Google Cloud
+288,Machine Learning
+288,Looker
+288,Docker
+288,Kubernetes
+289,SQL
+289,R
+289,Machine Learning
+289,Git
+289,Docker
+289,Kubernetes
+290,SQL
+290,Python
+290,Google Cloud
+290,Machine Learning
+290,Snowflake
+290,Looker
+290,Git
+291,Tableau
+291,Power BI
+291,Hadoop
+291,Looker
+292,SQL
+292,Excel
+292,Power BI
+292,R
+292,AWS
+292,Azure
+292,Google Cloud
+292,Hadoop
+293,AWS
+293,Azure
+293,Airflow
+294,Python
+294,Excel
+294,AWS
+294,Spark
+294,Hadoop
+294,Docker
+294,Airflow
+295,Power BI
+295,Machine Learning
+295,Jira
+295,Docker
+295,Kubernetes
+296,Python
+296,Excel
+296,Google Cloud
+296,Machine Learning
+296,Git
+296,Airflow
+297,Azure
+297,Spark
+297,Docker
+297,Airflow
+298,Excel
+298,Tableau
+298,Power BI
+298,Statistics
+298,Snowflake
+298,Kubernetes
+298,Airflow
+299,Python
+299,Power BI
+299,R
+299,Azure
+299,Statistics
+299,Spark
+299,Git
+299,Kubernetes
+300,Power BI
+300,Machine Learning
+300,Statistics
+300,Kubernetes
+300,Airflow
+301,R
+301,AWS
+301,Machine Learning
+301,Snowflake
+302,R
+302,AWS
+302,Jira
+302,Docker
+302,Kubernetes
+303,Python
+303,Excel
+303,AWS
+303,Google Cloud
+303,Statistics
+303,Snowflake
+303,Git
+303,Airflow
+304,Python
+304,Tableau
+304,Spark
+304,Docker
+305,Python
+305,AWS
+305,Machine Learning
+305,Statistics
+305,Spark
+305,Looker
+306,Python
+306,Excel
+306,Spark
+306,Hadoop
+306,Looker
+307,Tableau
+307,Power BI
+307,Azure
+307,Spark
+307,Snowflake
+307,Looker
+307,Docker
+307,Kubernetes
+308,Azure
+308,Google Cloud
+308,Statistics
+308,Spark
+308,Hadoop
+308,Airflow
+309,SQL
+309,Python
+309,Excel
+309,Machine Learning
+309,Spark
+309,Hadoop
+309,Docker
+310,Python
+310,Excel
+310,R
+310,Google Cloud
+310,Spark
+310,Hadoop
+310,Looker
+310,Docker
+311,Python
+311,Power BI
+311,AWS
+311,Snowflake
+311,Kubernetes
+312,Tableau
+312,R
+312,AWS
+312,Google Cloud
+312,Hadoop
+312,Jira
+312,Docker
+312,Airflow
+313,Power BI
+313,Azure
+313,Snowflake
+313,Kubernetes
+314,Google Cloud
+314,Statistics
+314,Spark
+314,Hadoop
+314,Looker
+314,Git
+314,Airflow
+315,Excel
+315,R
+315,Statistics
+315,Hadoop
+315,Looker
+315,Jira
+315,Kubernetes
+316,AWS
+316,Azure
+316,Machine Learning
+317,Spark
+317,Hadoop
+317,Snowflake
+317,Looker
+318,Python
+318,Power BI
+318,AWS
+318,Google Cloud
+318,Machine Learning
+318,Kubernetes
+318,Airflow
+319,Python
+319,R
+319,Azure
+319,Machine Learning
+319,Statistics
+319,Snowflake
+319,Jira
+319,Git
+320,AWS
+320,Statistics
+320,Spark
+320,Looker
+320,Jira
+320,Git
+321,SQL
+321,R
+321,AWS
+321,Google Cloud
+321,Machine Learning
+321,Hadoop
+321,Looker
+321,Jira
+322,Tableau
+322,Power BI
+322,R
+323,Tableau
+323,AWS
+323,Google Cloud
+323,Statistics
+323,Git
+324,Python
+324,Tableau
+324,AWS
+324,Azure
+324,Looker
+324,Docker
+324,Airflow
+325,Excel
+325,Machine Learning
+325,Statistics
+325,Looker
+326,Python
+326,Excel
+326,Machine Learning
+326,Snowflake
+326,Looker
+326,Docker
+327,Python
+327,Power BI
+327,AWS
+327,Azure
+327,Google Cloud
+327,Statistics
+327,Spark
+327,Looker
+328,Excel
+328,Power BI
+328,Azure
+328,Jira
+328,Airflow
+329,Python
+329,AWS
+329,Machine Learning
+329,Hadoop
+329,Snowflake
+329,Docker
+330,Google Cloud
+330,Jira
+330,Airflow
+331,Excel
+331,Azure
+331,Looker
+332,Tableau
+332,R
+332,Azure
+332,Google Cloud
+332,Machine Learning
+332,Spark
+332,Git
+332,Docker
+333,SQL
+333,Python
+333,R
+333,Azure
+333,Spark
+333,Git
+333,Kubernetes
+333,Airflow
+334,Python
+334,Power BI
+334,Azure
+334,Docker
+334,Airflow
+335,R
+335,Machine Learning
+335,Looker
+336,SQL
+336,Excel
+336,AWS
+336,Machine Learning
+336,Snowflake
+336,Looker
+336,Kubernetes
+336,Airflow
+337,Excel
+337,R
+337,Kubernetes
+338,Excel
+338,Hadoop
+338,Snowflake
+338,Git
+339,Tableau
+339,Power BI
+339,R
+339,AWS
+339,Statistics
+339,Docker
+339,Airflow
+340,SQL
+340,Python
+340,AWS
+340,Statistics
+340,Snowflake
+340,Docker
+340,Kubernetes
+340,Airflow
+341,Hadoop
+341,Snowflake
+341,Docker
+341,Airflow
+342,Excel
+342,Power BI
+342,Machine Learning
+342,Git
+342,Docker
+343,SQL
+343,Tableau
+343,Power BI
+343,R
+343,Azure
+343,Machine Learning
+343,Looker
+344,Excel
+344,AWS
+344,Snowflake
+344,Jira
+344,Docker
+345,SQL
+345,Python
+345,Google Cloud
+345,Git
+345,Airflow
+346,AWS
+346,Machine Learning
+346,Spark
+346,Looker
+346,Git
+347,SQL
+347,Excel
+347,R
+347,Google Cloud
+347,Statistics
+347,Snowflake
+347,Docker
+348,Tableau
+348,Power BI
+348,Snowflake
+348,Docker
+349,Tableau
+349,Snowflake
+349,Looker
+349,Airflow
+350,Machine Learning
+350,Statistics
+350,Hadoop
+350,Jira
+351,R
+351,Google Cloud
+351,Looker
+351,Airflow
+352,Power BI
+352,Machine Learning
+352,Hadoop
+352,Jira
+352,Git
+352,Airflow
+353,Tableau
+353,Machine Learning
+353,Hadoop
+353,Snowflake
+354,Azure
+354,Statistics
+354,Spark
+354,Kubernetes
+355,SQL
+355,Power BI
+355,AWS
+355,Google Cloud
+355,Spark
+355,Looker
+355,Kubernetes
+355,Airflow
+356,AWS
+356,Machine Learning
+356,Statistics
+356,Hadoop
+356,Snowflake
+356,Jira
+356,Docker
+357,Google Cloud
+357,Hadoop
+357,Looker
+357,Git
+358,SQL
+358,Power BI
+358,R
+358,Google Cloud
+358,Spark
+358,Docker
+358,Kubernetes
+359,SQL
+359,Excel
+359,Tableau
+359,Power BI
+359,Azure
+359,Machine Learning
+359,Statistics
+359,Looker
+360,Excel
+360,AWS
+360,Machine Learning
+360,Spark
+360,Looker
+360,Kubernetes
+361,Python
+361,Excel
+361,Tableau
+361,Machine Learning
+361,Jira
+361,Docker
+361,Kubernetes
+362,Python
+362,Power BI
+362,R
+362,Jira
+362,Kubernetes
+363,Python
+363,R
+363,Azure
+363,Statistics
+363,Jira
+363,Git
+364,Excel
+364,Power BI
+364,Spark
+364,Jira
+364,Docker
+365,SQL
+365,Tableau
+365,Machine Learning
+365,Docker
+366,SQL
+366,Python
+366,Machine Learning
+366,Hadoop
+366,Snowflake
+366,Jira
+367,Excel
+367,R
+367,AWS
+367,Google Cloud
+367,Statistics
+367,Snowflake
+367,Git
+367,Docker
+368,SQL
+368,AWS
+368,Jira
+369,SQL
+369,Python
+369,R
+369,Azure
+369,Statistics
+369,Spark
+369,Hadoop
+370,SQL
+370,Python
+370,Excel
+370,Tableau
+370,Machine Learning
+370,Spark
+371,Statistics
+371,Snowflake
+371,Kubernetes
+372,Python
+372,Tableau
+372,Power BI
+372,Machine Learning
+373,SQL
+373,Excel
+373,Machine Learning
+373,Hadoop
+374,Python
+374,Tableau
+374,R
+374,Google Cloud
+374,Spark
+375,Python
+375,AWS
+375,Google Cloud
+375,Hadoop
+375,Looker
+376,Excel
+376,Tableau
+376,Power BI
+376,Google Cloud
+376,Docker
+377,Tableau
+377,Power BI
+377,R
+377,AWS
+377,Hadoop
+377,Git
+378,SQL
+378,Python
+378,AWS
+378,Azure
+378,Google Cloud
+378,Statistics
+378,Kubernetes
+378,Airflow
+379,Python
+379,Excel
+379,Spark
+379,Looker
+379,Docker
+380,Power BI
+380,Azure
+380,Google Cloud
+380,Snowflake
+380,Looker
+380,Jira
+380,Docker
+380,Airflow
+381,SQL
+381,Python
+381,Excel
+381,Power BI
+381,Statistics
+381,Snowflake
+381,Jira
+381,Airflow
+382,Python
+382,Excel
+382,Azure
+382,Docker
+383,Tableau
+383,Hadoop
+383,Snowflake
+383,Jira
+384,Power BI
+384,R
+384,AWS
+385,Power BI
+385,Machine Learning
+385,Snowflake
+386,Excel
+386,R
+386,Azure
+386,Statistics
+386,Snowflake
+387,Excel
+387,R
+387,Azure
+387,Spark
+387,Snowflake
+387,Looker
+387,Docker
+388,Spark
+388,Hadoop
+388,Jira
+388,Git
+388,Docker
+389,R
+389,Google Cloud
+389,Hadoop
+389,Looker
+389,Jira
+389,Git
+389,Docker
+390,Power BI
+390,Machine Learning
+390,Statistics
+390,Hadoop
+390,Jira
+390,Docker
+391,Excel
+391,Google Cloud
+391,Snowflake
+392,Tableau
+392,R
+392,AWS
+392,Spark
+392,Docker
+393,SQL
+393,Excel
+393,R
+393,Statistics
+393,Looker
+393,Jira
+393,Git
+394,Python
+394,R
+394,Google Cloud
+395,AWS
+395,Google Cloud
+395,Kubernetes
+396,Machine Learning
+396,Statistics
+396,Airflow
+397,Excel
+397,Tableau
+397,Power BI
+397,Snowflake
+397,Looker
+397,Kubernetes
+398,Google Cloud
+398,Machine Learning
+398,Spark
+398,Jira
+399,AWS
+399,Azure
+399,Git
+399,Docker
+400,SQL
+400,Tableau
+400,Power BI
+400,Machine Learning
+400,Looker
+400,Kubernetes
+401,SQL
+401,AWS
+401,Azure
+401,Airflow
+402,Python
+402,Tableau
+402,Azure
+402,Statistics
+402,Looker
+402,Kubernetes
+402,Airflow
+403,Excel
+403,Google Cloud
+403,Statistics
+404,AWS
+404,Google Cloud
+404,Hadoop
+404,Kubernetes
+405,Excel
+405,AWS
+405,Snowflake
+405,Airflow
+406,SQL
+406,Python
+406,R
+406,Google Cloud
+406,Snowflake
+406,Jira
+406,Git
+406,Docker
+407,SQL
+407,Tableau
+407,Docker
+408,Python
+408,R
+408,Google Cloud
+408,Machine Learning
+408,Spark
+408,Hadoop
+409,SQL
+409,R
+409,Google Cloud
+409,Kubernetes
+410,Python
+410,Power BI
+410,AWS
+410,Spark
+410,Hadoop
+410,Snowflake
+410,Jira
+411,Python
+411,Tableau
+411,R
+411,Snowflake
+412,Python
+412,Spark
+412,Snowflake
+412,Looker
+412,Docker
+412,Kubernetes
+412,Airflow
+413,Python
+413,R
+413,Statistics
+413,Git
+413,Docker
+414,AWS
+414,Azure
+414,Looker
+414,Docker
+414,Kubernetes
+415,Python
+415,Spark
+415,Kubernetes
+416,Tableau
+416,Statistics
+416,Spark
+416,Airflow
+417,Python
+417,Excel
+417,Tableau
+417,Statistics
+417,Spark
+417,Snowflake
+417,Git
+417,Docker
+418,Google Cloud
+418,Statistics
+418,Hadoop
+418,Snowflake
+419,Statistics
+419,Spark
+419,Hadoop
+419,Looker
+420,Power BI
+420,Snowflake
+420,Looker
+420,Airflow
+421,Statistics
+421,Jira
+421,Docker
+422,Statistics
+422,Snowflake
+422,Looker
+423,SQL
+423,Power BI
+423,R
+423,Azure
+423,Google Cloud
+423,Docker
+424,SQL
+424,Excel
+424,Power BI
+424,Azure
+424,Git
+425,Python
+425,Looker
+425,Jira
+425,Git
+425,Docker
+425,Airflow
+426,Power BI
+426,Azure
+426,Google Cloud
+426,Machine Learning
+426,Statistics
+426,Snowflake
+426,Looker
+426,Jira
+427,SQL
+427,Excel
+427,Power BI
+427,AWS
+427,Azure
+427,Google Cloud
+427,Machine Learning
+427,Statistics
+427,Jira
+428,SQL
+428,Spark
+428,Kubernetes
+429,Python
+429,R
+429,Azure
+429,Machine Learning
+429,Jira
+430,SQL
+430,Excel
+430,Statistics
+430,Spark
+430,Looker
+430,Jira
+430,Git
+431,Tableau
+431,Power BI
+431,Snowflake
+431,Jira
+431,Docker
+432,Python
+432,Tableau
+432,Statistics
+432,Hadoop
+432,Looker
+432,Kubernetes
+432,Airflow
+433,SQL
+433,Python
+433,Excel
+433,Tableau
+433,R
+433,Google Cloud
+433,Snowflake
+433,Docker
+434,Statistics
+434,Spark
+434,Jira
+435,Python
+435,Power BI
+435,R
+435,Machine Learning
+435,Spark
+435,Snowflake
+435,Docker
+436,Power BI
+436,Google Cloud
+436,Airflow
+437,R
+437,Machine Learning
+437,Jira
+437,Docker
+437,Airflow
+438,SQL
+438,Tableau
+438,AWS
+438,Azure
+438,Google Cloud
+438,Looker
+438,Git
+438,Kubernetes
+439,Tableau
+439,Spark
+439,Snowflake
+439,Docker
+440,Excel
+440,Tableau
+440,Machine Learning
+440,Spark
+440,Looker
+440,Docker
+441,SQL
+441,Tableau
+441,AWS
+441,Machine Learning
+441,Spark
+441,Looker
+441,Jira
+441,Docker
+442,SQL
+442,AWS
+442,Machine Learning
+442,Snowflake
+442,Git
+442,Docker
+442,Kubernetes
+443,Python
+443,Machine Learning
+443,Statistics
+443,Snowflake
+443,Docker
+444,AWS
+444,Spark
+444,Hadoop
+444,Docker
+445,SQL
+445,Python
+445,Power BI
+445,Google Cloud
+445,Machine Learning
+445,Jira
+445,Git
+445,Docker
+446,SQL
+446,Excel
+446,Tableau
+446,R
+446,Azure
+446,Looker
+446,Jira
+447,Azure
+447,Machine Learning
+447,Looker
+447,Git
+447,Kubernetes
+448,Excel
+448,Power BI
+448,Docker
+449,Power BI
+449,Azure
+449,Google Cloud
+449,Spark
+450,Google Cloud
+450,Machine Learning
+450,Statistics
+450,Snowflake
+450,Looker
+450,Jira
+450,Kubernetes
+451,Spark
+451,Git
+451,Docker
+452,Python
+452,Excel
+452,R
+452,Azure
+452,Machine Learning
+452,Statistics
+452,Jira
+452,Docker
+453,Tableau
+453,AWS
+453,Snowflake
+453,Looker
+453,Git
+454,SQL
+454,Excel
+454,AWS
+454,Statistics
+454,Spark
+454,Hadoop
+455,R
+455,Azure
+455,Hadoop
+455,Kubernetes
+456,Statistics
+456,Snowflake
+456,Airflow
+457,Python
+457,AWS
+457,Azure
+457,Google Cloud
+457,Git
+457,Docker
+457,Airflow
+458,SQL
+458,Machine Learning
+458,Statistics
+458,Spark
+458,Snowflake
+458,Airflow
+459,Google Cloud
+459,Hadoop
+459,Git
+459,Kubernetes
+460,Python
+460,Tableau
+460,Power BI
+460,Machine Learning
+460,Git
+461,Azure
+461,Git
+461,Airflow
+462,Python
+462,Excel
+462,Hadoop
+462,Snowflake
+462,Jira
+462,Docker
+463,Google Cloud
+463,Machine Learning
+463,Spark
+463,Hadoop
+463,Git
+463,Docker
+463,Airflow
+464,SQL
+464,Excel
+464,Power BI
+464,Azure
+464,Looker
+464,Jira
+464,Airflow
+465,Python
+465,Excel
+465,Power BI
+465,AWS
+465,Azure
+465,Statistics
+465,Docker
+466,SQL
+466,R
+466,Azure
+466,Google Cloud
+466,Machine Learning
+466,Statistics
+466,Hadoop
+466,Git
+466,Docker
+467,Python
+467,Tableau
+467,Power BI
+467,Azure
+467,Machine Learning
+467,Git
+468,Excel
+468,Tableau
+468,Kubernetes
+469,Excel
+469,Tableau
+469,R
+469,AWS
+469,Machine Learning
+469,Statistics
+469,Hadoop
+469,Docker
+470,SQL
+470,AWS
+470,Google Cloud
+470,Spark
+470,Hadoop
+470,Airflow
+471,Excel
+471,Power BI
+471,AWS
+471,Snowflake
+471,Git
+471,Docker
+471,Kubernetes
+471,Airflow
+472,Python
+472,Google Cloud
+472,Statistics
+472,Snowflake
+472,Looker
+472,Jira
+472,Git
+472,Docker
+473,Excel
+473,Spark
+473,Hadoop
+473,Docker
+473,Airflow
+474,Excel
+474,AWS
+474,Azure
+474,Git
+475,Python
+475,Excel
+475,R
+475,AWS
+475,Machine Learning
+475,Hadoop
+475,Kubernetes
+476,Excel
+476,Power BI
+476,AWS
+476,Statistics
+476,Spark
+476,Hadoop
+476,Snowflake
+476,Docker
+477,Power BI
+477,R
+477,Azure
+477,Spark
+477,Hadoop
+477,Airflow
+478,Excel
+478,Tableau
+478,Power BI
+478,Machine Learning
+478,Spark
+478,Hadoop
+478,Docker
+478,Airflow
+479,SQL
+479,Python
+479,Looker
+479,Jira
+480,SQL
+480,Machine Learning
+480,Spark
+480,Snowflake
+480,Jira
+480,Git
+480,Docker
+480,Airflow
+481,Spark
+481,Git
+481,Kubernetes
+482,Python
+482,Power BI
+482,R
+482,Google Cloud
+482,Jira
+483,Python
+483,AWS
+483,Azure
+483,Machine Learning
+483,Snowflake
+483,Git
+483,Docker
+483,Airflow
+484,R
+484,AWS
+484,Google Cloud
+484,Snowflake
+484,Jira
+484,Airflow
+485,Power BI
+485,Statistics
+485,Looker
+486,SQL
+486,Python
+486,Tableau
+486,Jira
+486,Kubernetes
+487,Excel
+487,R
+487,AWS
+487,Azure
+487,Statistics
+487,Git
+487,Kubernetes
+487,Airflow
+488,Tableau
+488,Machine Learning
+488,Spark
+488,Hadoop
+488,Snowflake
+488,Jira
+489,Python
+489,R
+489,AWS
+489,Spark
+489,Looker
+489,Airflow
+490,SQL
+490,Excel
+490,Power BI
+490,Google Cloud
+490,Machine Learning
+490,Spark
+490,Hadoop
+490,Kubernetes
+491,Tableau
+491,Spark
+491,Snowflake
+491,Looker
+491,Git
+492,SQL
+492,R
+492,Google Cloud
+492,Statistics
+492,Snowflake
+492,Docker
+492,Airflow
+493,Excel
+493,Google Cloud
+493,Statistics
+493,Spark
+493,Hadoop
+493,Docker
+494,Excel
+494,AWS
+494,Spark
+494,Hadoop
+494,Looker
+494,Git
+494,Airflow
+495,Tableau
+495,Statistics
+495,Spark
+495,Snowflake
+495,Looker
+495,Git
+495,Kubernetes
+495,Airflow
+496,SQL
+496,AWS
+496,Azure
+496,Machine Learning
+496,Hadoop
+496,Snowflake
+496,Looker
+497,Hadoop
+497,Git
+497,Kubernetes
+497,Airflow
+498,R
+498,Machine Learning
+498,Looker
+499,Tableau
+499,Azure
+499,Machine Learning
+499,Snowflake
+499,Looker
+499,Git
+499,Airflow
+500,Google Cloud
+500,Hadoop
+500,Git
+500,Docker
+501,Python
+501,AWS
+501,Spark
+501,Looker
+501,Jira
+501,Git
+501,Docker
+501,Kubernetes
+502,Python
+502,Excel
+502,Power BI
+502,AWS
+502,Google Cloud
+503,SQL
+503,Spark
+503,Hadoop
+503,Looker
+503,Jira
+503,Docker
+503,Airflow
+504,SQL
+504,Power BI
+504,AWS
+504,Looker
+504,Kubernetes
+505,Python
+505,Excel
+505,Azure
+505,Machine Learning
+505,Hadoop
+505,Kubernetes
+506,Python
+506,Tableau
+506,Power BI
+506,Azure
+506,Google Cloud
+506,Statistics
+506,Jira
+506,Airflow
+507,SQL
+507,R
+507,Google Cloud
+507,Machine Learning
+507,Hadoop
+507,Git
+508,Power BI
+508,Looker
+508,Git
+508,Kubernetes
+508,Airflow
+509,Python
+509,R
+509,AWS
+509,Google Cloud
+509,Snowflake
+509,Kubernetes
+509,Airflow
+510,Excel
+510,Azure
+510,Google Cloud
+510,Machine Learning
+510,Hadoop
+510,Looker
+510,Jira
+511,SQL
+511,Python
+511,Power BI
+511,Azure
+511,Google Cloud
+511,Hadoop
+511,Snowflake
+511,Jira
+512,AWS
+512,Jira
+512,Docker
+512,Kubernetes
+513,Python
+513,R
+513,Azure
+513,Spark
+513,Snowflake
+513,Airflow
+514,Python
+514,Excel
+514,Google Cloud
+514,Jira
+514,Docker
+515,AWS
+515,Azure
+515,Git
+516,Tableau
+516,Power BI
+516,AWS
+516,Jira
+516,Git
+516,Docker
+516,Airflow
+517,Tableau
+517,Jira
+517,Kubernetes
+518,Spark
+518,Snowflake
+518,Airflow
+519,SQL
+519,Excel
+519,R
+519,Azure
+519,Hadoop
+519,Snowflake
+519,Docker
+520,Python
+520,Power BI
+520,AWS
+520,Google Cloud
+520,Spark
+520,Hadoop
+520,Git
+521,Power BI
+521,AWS
+521,Spark
+521,Looker
+521,Jira
+521,Git
+521,Docker
+521,Airflow
+522,Tableau
+522,Machine Learning
+522,Docker
+522,Airflow
+523,AWS
+523,Azure
+523,Google Cloud
+523,Statistics
+523,Jira
+523,Airflow
+524,SQL
+524,Excel
+524,R
+524,Spark
+524,Snowflake
+524,Jira
+524,Airflow
+525,SQL
+525,Python
+525,Tableau
+525,Machine Learning
+525,Looker
+525,Git
+526,SQL
+526,R
+526,Azure
+526,Google Cloud
+526,Spark
+526,Looker
+527,Python
+527,Power BI
+527,AWS
+527,Google Cloud
+527,Spark
+527,Jira
+527,Git
+527,Airflow
+528,Hadoop
+528,Snowflake
+528,Git
+529,Excel
+529,Power BI
+529,R
+529,AWS
+529,Azure
+529,Spark
+529,Git
+529,Airflow
+530,AWS
+530,Snowflake
+530,Docker
+530,Kubernetes
+531,Excel
+531,Google Cloud
+531,Spark
+531,Hadoop
+531,Snowflake
+531,Airflow
+532,SQL
+532,Python
+532,Machine Learning
+532,Snowflake
+532,Git
+532,Kubernetes
+533,SQL
+533,Machine Learning
+533,Looker
+533,Docker
+534,Tableau
+534,R
+534,Google Cloud
+534,Machine Learning
+534,Looker
+534,Jira
+534,Git
+534,Docker
+535,R
+535,Spark
+535,Docker
+536,Power BI
+536,AWS
+536,Statistics
+536,Git
+537,Power BI
+537,AWS
+537,Machine Learning
+538,SQL
+538,Excel
+538,AWS
+538,Google Cloud
+538,Spark
+538,Snowflake
+538,Docker
+538,Airflow
+539,Tableau
+539,Power BI
+539,R
+539,AWS
+539,Google Cloud
+539,Machine Learning
+539,Looker
+539,Docker
+540,Python
+540,Tableau
+540,AWS
+540,Statistics
+540,Hadoop
+540,Snowflake
+540,Docker
+540,Kubernetes
+541,SQL
+541,Python
+541,Tableau
+541,Power BI
+541,Google Cloud
+541,Looker
+541,Git
+541,Kubernetes
+542,Python
+542,Spark
+542,Hadoop
+542,Git
+543,AWS
+543,Google Cloud
+543,Hadoop
+543,Jira
+543,Kubernetes
+544,R
+544,Azure
+544,Machine Learning
+544,Hadoop
+544,Snowflake
+545,Python
+545,Tableau
+545,R
+545,Statistics
+545,Jira
+545,Docker
+545,Airflow
+546,SQL
+546,Power BI
+546,R
+546,Google Cloud
+546,Hadoop
+546,Git
+546,Kubernetes
+546,Airflow
+547,Python
+547,Machine Learning
+547,Statistics
+547,Spark
+547,Docker
+548,Excel
+548,Power BI
+548,Spark
+548,Docker
+549,R
+549,Snowflake
+549,Airflow
+550,R
+550,Snowflake
+550,Looker
+550,Docker
+551,Power BI
+551,Machine Learning
+551,Hadoop
+552,Power BI
+552,R
+552,Azure
+552,Snowflake
+552,Jira
+552,Kubernetes
+553,R
+553,AWS
+553,Google Cloud
+553,Hadoop
+554,SQL
+554,Python
+554,R
+554,AWS
+554,Hadoop
+554,Looker
+554,Jira
+555,Tableau
+555,R
+555,AWS
+555,Statistics
+555,Hadoop
+555,Jira
+555,Docker
+555,Airflow
+556,SQL
+556,Tableau
+556,Azure
+556,Snowflake
+556,Looker
+556,Jira
+556,Git
+556,Airflow
+557,AWS
+557,Machine Learning
+557,Hadoop
+557,Git
+558,SQL
+558,Python
+558,Tableau
+558,Azure
+558,Machine Learning
+558,Docker
+559,SQL
+559,AWS
+559,Looker
+560,Power BI
+560,Hadoop
+560,Looker
+560,Git
+561,SQL
+561,Python
+561,Power BI
+561,Airflow
+562,SQL
+562,Excel
+562,Hadoop
+562,Git
+563,Azure
+563,Statistics
+563,Spark
+563,Kubernetes
+564,Python
+564,Excel
+564,R
+564,Azure
+564,Statistics
+564,Airflow
+565,SQL
+565,Excel
+565,Tableau
+566,Excel
+566,R
+566,Google Cloud
+566,Looker
+566,Kubernetes
+567,Python
+567,Azure
+567,Google Cloud
+567,Spark
+567,Jira
+568,SQL
+568,Tableau
+568,AWS
+568,Spark
+568,Hadoop
+569,Excel
+569,Tableau
+569,Power BI
+569,Azure
+569,Hadoop
+569,Git
+569,Docker
+569,Airflow
+570,SQL
+570,AWS
+570,Snowflake
+570,Git
+571,Python
+571,AWS
+571,Snowflake
+571,Jira
+572,Excel
+572,Power BI
+572,Azure
+572,Google Cloud
+572,Statistics
+572,Spark
+572,Snowflake
+573,Excel
+573,Tableau
+573,Google Cloud
+573,Statistics
+573,Hadoop
+573,Snowflake
+573,Kubernetes
+573,Airflow
+574,SQL
+574,Azure
+574,Google Cloud
+574,Machine Learning
+574,Jira
+575,Python
+575,Excel
+575,AWS
+575,Statistics
+575,Hadoop
+575,Snowflake
+575,Looker
+575,Kubernetes
+576,SQL
+576,Snowflake
+576,Jira
+576,Docker
+577,Python
+577,Tableau
+577,Statistics
+577,Docker
+577,Kubernetes
+578,SQL
+578,Excel
+578,Tableau
+578,R
+578,Machine Learning
+578,Statistics
+578,Spark
+578,Airflow
+579,Excel
+579,Azure
+579,Machine Learning
+579,Looker
+579,Jira
+579,Git
+579,Airflow
+580,AWS
+580,Machine Learning
+580,Jira
+580,Docker
+581,SQL
+581,Python
+581,Spark
+581,Snowflake
+581,Looker
+581,Jira
+582,Python
+582,R
+582,Azure
+582,Looker
+582,Jira
+583,R
+583,Git
+583,Docker
+583,Airflow
+584,Excel
+584,Power BI
+584,Machine Learning
+584,Statistics
+584,Git
+584,Docker
+584,Airflow
+585,Excel
+585,Azure
+585,Hadoop
+585,Git
+586,Tableau
+586,AWS
+586,Machine Learning
+586,Snowflake
+587,Excel
+587,Tableau
+587,Docker
+588,Power BI
+588,R
+588,Spark
+588,Looker
+589,Python
+589,Statistics
+589,Hadoop
+589,Looker
+590,Tableau
+590,Machine Learning
+590,Kubernetes
+591,Python
+591,R
+591,Machine Learning
+591,Statistics
+591,Snowflake
+591,Jira
+591,Git
+591,Kubernetes
+592,Google Cloud
+592,Docker
+592,Airflow
+593,Python
+593,Power BI
+593,R
+593,Azure
+593,Google Cloud
+593,Statistics
+593,Looker
+593,Git
+594,R
+594,Statistics
+594,Snowflake
+594,Kubernetes
+594,Airflow
+595,Python
+595,Hadoop
+595,Jira
+596,Tableau
+596,R
+596,Google Cloud
+596,Machine Learning
+596,Spark
+596,Snowflake
+596,Looker
+596,Airflow
+597,Excel
+597,Google Cloud
+597,Hadoop
+597,Snowflake
+597,Looker
+597,Jira
+597,Kubernetes
+597,Airflow
+598,Python
+598,Azure
+598,Jira
+599,SQL
+599,Tableau
+599,Spark
+599,Hadoop
+599,Snowflake
+599,Looker
+599,Git
+599,Kubernetes
+600,Python
+600,AWS
+600,Statistics
+600,Spark
+600,Snowflake
+600,Looker
+601,Python
+601,Excel
+601,Power BI
+601,R
+601,Hadoop
+602,Machine Learning
+602,Hadoop
+602,Snowflake
+603,Power BI
+603,R
+603,AWS
+603,Snowflake
+603,Looker
+603,Git
+603,Kubernetes
+604,Python
+604,R
+604,Docker
+605,SQL
+605,Excel
+605,Power BI
+605,R
+605,Azure
+605,Google Cloud
+605,Looker
+605,Jira
+606,Statistics
+606,Hadoop
+606,Looker
+606,Git
+606,Airflow
+607,Google Cloud
+607,Hadoop
+607,Looker
+608,Tableau
+608,Machine Learning
+608,Hadoop
+609,Excel
+609,Power BI
+609,R
+609,Statistics
+609,Hadoop
+610,Excel
+610,Power BI
+610,Machine Learning
+610,Statistics
+610,Git
+610,Docker
+611,SQL
+611,Excel
+611,Tableau
+611,Azure
+611,Jira
+611,Git
+611,Airflow
+612,Python
+612,Hadoop
+612,Snowflake
+612,Jira
+612,Airflow
+613,Python
+613,Google Cloud
+613,Hadoop
+613,Jira
+613,Git
+613,Kubernetes
+613,Airflow
+614,Power BI
+614,Azure
+614,Machine Learning
+614,Spark
+615,Python
+615,Power BI
+615,AWS
+615,Machine Learning
+615,Statistics
+615,Spark
+615,Snowflake
+615,Git
+616,Power BI
+616,Machine Learning
+616,Snowflake
+616,Jira
+616,Docker
+616,Airflow
+617,SQL
+617,R
+617,Google Cloud
+617,Looker
+618,Power BI
+618,R
+618,Google Cloud
+618,Machine Learning
+618,Spark
+618,Looker
+618,Jira
+618,Git
+619,Tableau
+619,AWS
+619,Google Cloud
+619,Statistics
+619,Spark
+619,Jira
+619,Kubernetes
+620,SQL
+620,Excel
+620,Tableau
+620,Google Cloud
+620,Machine Learning
+620,Snowflake
+621,SQL
+621,Power BI
+621,Azure
+621,Machine Learning
+621,Git
+621,Kubernetes
+622,Tableau
+622,R
+622,Azure
+622,Spark
+623,Excel
+623,Power BI
+623,Google Cloud
+623,Machine Learning
+623,Hadoop
+623,Jira
+623,Airflow
+624,Python
+624,Tableau
+624,AWS
+624,Google Cloud
+625,Python
+625,Excel
+625,Jira
+626,Python
+626,R
+626,Azure
+626,Git
+626,Docker
+626,Kubernetes
+627,Excel
+627,Power BI
+627,AWS
+627,Statistics
+627,Spark
+627,Snowflake
+627,Jira
+627,Git
+628,Python
+628,Tableau
+628,R
+628,Statistics
+628,Spark
+628,Looker
+628,Docker
+629,R
+629,Hadoop
+629,Docker
+630,Tableau
+630,R
+630,AWS
+630,Azure
+630,Google Cloud
+630,Machine Learning
+630,Statistics
+630,Airflow
+631,Tableau
+631,Power BI
+631,AWS
+631,Google Cloud
+631,Statistics
+631,Jira
+631,Git
+631,Docker
+632,SQL
+632,Python
+632,Excel
+632,Tableau
+632,Spark
+632,Hadoop
+632,Kubernetes
+633,SQL
+633,Tableau
+633,R
+633,Google Cloud
+633,Machine Learning
+633,Snowflake
+633,Git
+633,Docker
+634,AWS
+634,Machine Learning
+634,Snowflake
+634,Looker
+635,Excel
+635,R
+635,Statistics
+635,Snowflake
+635,Jira
+635,Docker
+635,Kubernetes
+636,Tableau
+636,AWS
+636,Looker
+636,Git
+636,Docker
+636,Kubernetes
+637,Python
+637,Excel
+637,Tableau
+637,R
+637,Azure
+637,Google Cloud
+637,Jira
+637,Git
+638,Excel
+638,Azure
+638,Machine Learning
+638,Statistics
+638,Snowflake
+638,Docker
+638,Airflow
+639,Excel
+639,Azure
+639,Google Cloud
+639,Statistics
+639,Hadoop
+639,Git
+640,AWS
+640,Snowflake
+640,Jira
+640,Airflow
+641,Azure
+641,Google Cloud
+641,Machine Learning
+641,Spark
+641,Jira
+642,Power BI
+642,R
+642,AWS
+642,Statistics
+642,Git
+642,Airflow
+643,SQL
+643,Excel
+643,Tableau
+643,Power BI
+643,Looker
+643,Jira
+643,Kubernetes
+643,Airflow
+644,Power BI
+644,Google Cloud
+644,Docker
+645,Tableau
+645,Azure
+645,Machine Learning
+645,Spark
+645,Looker
+646,AWS
+646,Statistics
+646,Snowflake
+646,Jira
+647,SQL
+647,Power BI
+647,R
+647,Azure
+647,Spark
+647,Jira
+647,Docker
+648,Excel
+648,R
+648,Statistics
+648,Jira
+649,Tableau
+649,Power BI
+649,AWS
+649,Machine Learning
+649,Spark
+649,Looker
+649,Git
+649,Docker
+650,SQL
+650,Excel
+650,Statistics
+651,Tableau
+651,AWS
+651,Snowflake
+651,Git
+652,SQL
+652,Python
+652,Tableau
+652,Power BI
+652,Snowflake
+652,Jira
+652,Airflow
+653,SQL
+653,Power BI
+653,AWS
+653,Google Cloud
+653,Statistics
+653,Git
+653,Airflow
+654,SQL
+654,Power BI
+654,Machine Learning
+654,Statistics
+654,Snowflake
+654,Jira
+654,Git
+655,Azure
+655,Google Cloud
+655,Statistics
+655,Spark
+655,Git
+656,Excel
+656,Power BI
+656,AWS
+656,Statistics
+656,Spark
+656,Jira
+656,Kubernetes
+656,Airflow
+657,SQL
+657,Python
+657,Tableau
+657,Google Cloud
+657,Hadoop
+657,Git
+658,Excel
+658,R
+658,AWS
+658,Machine Learning
+658,Statistics
+658,Docker
+658,Kubernetes
+658,Airflow
+659,Python
+659,Statistics
+659,Looker
+660,SQL
+660,Power BI
+660,R
+660,Google Cloud
+660,Statistics
+660,Looker
+661,Python
+661,Power BI
+661,Machine Learning
+661,Kubernetes
+661,Airflow
+662,SQL
+662,Excel
+662,Tableau
+662,AWS
+662,Google Cloud
+662,Machine Learning
+662,Hadoop
+662,Kubernetes
+663,Python
+663,Google Cloud
+663,Statistics
+663,Snowflake
+663,Kubernetes
+664,Excel
+664,AWS
+664,Statistics
+664,Looker
+665,SQL
+665,Excel
+665,AWS
+665,Google Cloud
+665,Machine Learning
+665,Statistics
+665,Docker
+666,Power BI
+666,Jira
+666,Docker
+667,Power BI
+667,R
+667,Snowflake
+667,Looker
+667,Docker
+667,Kubernetes
+667,Airflow
+668,Power BI
+668,Looker
+668,Airflow
+669,Python
+669,Excel
+669,Power BI
+669,Azure
+669,Docker
+670,SQL
+670,Excel
+670,Power BI
+670,R
+670,AWS
+670,Statistics
+670,Spark
+670,Git
+671,Python
+671,AWS
+671,Git
+672,Python
+672,R
+672,Google Cloud
+672,Snowflake
+672,Jira
+673,Power BI
+673,Azure
+673,Looker
+674,Excel
+674,Power BI
+674,Azure
+674,Machine Learning
+674,Snowflake
+674,Git
+675,Hadoop
+675,Kubernetes
+675,Airflow
+676,Power BI
+676,Machine Learning
+676,Spark
+676,Looker
+676,Jira
+676,Docker
+677,AWS
+677,Snowflake
+677,Looker
+678,Power BI
+678,Snowflake
+678,Looker
+678,Docker
+678,Kubernetes
+679,SQL
+679,Excel
+679,R
+679,Snowflake
+679,Airflow
+680,AWS
+680,Spark
+680,Git
+681,SQL
+681,Tableau
+681,Power BI
+681,Azure
+681,Statistics
+681,Jira
+681,Airflow
+682,SQL
+682,R
+682,Google Cloud
+682,Spark
+682,Looker
+682,Kubernetes
+683,Tableau
+683,Spark
+683,Hadoop
+683,Snowflake
+683,Git
+683,Kubernetes
+684,Excel
+684,Google Cloud
+684,Spark
+684,Looker
+684,Jira
+684,Git
+685,SQL
+685,AWS
+685,Spark
+685,Hadoop
+685,Airflow
+686,SQL
+686,Python
+686,R
+686,Spark
+686,Hadoop
+686,Git
+686,Docker
+686,Kubernetes
+687,AWS
+687,Machine Learning
+687,Spark
+687,Hadoop
+687,Airflow
+688,SQL
+688,Python
+688,R
+688,Machine Learning
+688,Hadoop
+688,Snowflake
+688,Jira
+688,Git
+689,Excel
+689,AWS
+689,Git
+689,Airflow
+690,Google Cloud
+690,Machine Learning
+690,Statistics
+690,Docker
+691,Python
+691,Statistics
+691,Jira
+692,Excel
+692,Spark
+692,Hadoop
+693,SQL
+693,Excel
+693,Looker
+693,Airflow
+694,Spark
+694,Snowflake
+694,Git
+695,Power BI
+695,R
+695,AWS
+695,Hadoop
+695,Kubernetes
+696,Snowflake
+696,Git
+696,Docker
+697,Python
+697,Power BI
+697,Azure
+697,Kubernetes
+698,Excel
+698,Power BI
+698,Google Cloud
+698,Statistics
+698,Spark
+698,Jira
+698,Docker
+698,Kubernetes
+699,Tableau
+699,Google Cloud
+699,Jira
+700,SQL
+700,Tableau
+700,R
+700,Jira
+700,Airflow
+701,Python
+701,Tableau
+701,Power BI
+701,Spark
+701,Snowflake
+701,Jira
+701,Docker
+702,Tableau
+702,Power BI
+702,R
+702,Google Cloud
+702,Machine Learning
+702,Kubernetes
+703,Python
+703,Excel
+703,AWS
+703,Hadoop
+703,Snowflake
+703,Looker
+704,SQL
+704,Python
+704,Azure
+704,Jira
+704,Git
+704,Kubernetes
+704,Airflow
+705,Excel
+705,Tableau
+705,Azure
+705,Machine Learning
+705,Statistics
+705,Looker
+705,Docker
+706,R
+706,Google Cloud
+706,Spark
+706,Looker
+706,Git
+707,Power BI
+707,Google Cloud
+707,Spark
+707,Jira
+708,Python
+708,Power BI
+708,R
+708,AWS
+708,Azure
+708,Looker
+708,Docker
+709,Tableau
+709,Power BI
+709,R
+709,Spark
+709,Jira
+709,Git
+710,AWS
+710,Azure
+710,Google Cloud
+710,Spark
+710,Hadoop
+711,SQL
+711,Tableau
+711,Azure
+711,Jira
+712,R
+712,AWS
+712,Snowflake
+712,Docker
+712,Kubernetes
+713,Machine Learning
+713,Git
+713,Airflow
+714,SQL
+714,R
+714,Google Cloud
+714,Looker
+714,Git
+715,Python
+715,Excel
+715,Tableau
+715,Power BI
+715,Statistics
+715,Spark
+715,Hadoop
+715,Airflow
+716,SQL
+716,Tableau
+716,AWS
+716,Azure
+716,Looker
+716,Kubernetes
+717,SQL
+717,Power BI
+717,R
+717,Azure
+717,Google Cloud
+717,Hadoop
+717,Looker
+717,Docker
+718,Python
+718,Excel
+718,Statistics
+718,Spark
+718,Hadoop
+718,Looker
+718,Kubernetes
+718,Airflow
+719,Spark
+719,Snowflake
+719,Git
+719,Kubernetes
+719,Airflow
+720,AWS
+720,Google Cloud
+720,Statistics
+721,Python
+721,Excel
+721,Machine Learning
+721,Looker
+721,Docker
+722,Azure
+722,Git
+722,Airflow
+723,Azure
+723,Google Cloud
+723,Machine Learning
+723,Hadoop
+723,Airflow
+724,Excel
+724,Power BI
+724,R
+724,AWS
+724,Statistics
+725,Python
+725,Tableau
+725,Azure
+726,SQL
+726,Python
+726,Google Cloud
+726,Hadoop
+727,Python
+727,Power BI
+727,Azure
+727,Statistics
+727,Hadoop
+727,Looker
+727,Git
+727,Airflow
+728,Excel
+728,Azure
+728,Google Cloud
+728,Machine Learning
+728,Looker
+728,Jira
+729,Tableau
+729,R
+729,Google Cloud
+729,Docker
+730,Tableau
+730,Power BI
+730,AWS
+730,Machine Learning
+730,Jira
+730,Git
+731,SQL
+731,Python
+731,Snowflake
+731,Jira
+731,Git
+731,Kubernetes
+732,SQL
+732,Tableau
+732,AWS
+732,Machine Learning
+732,Statistics
+732,Spark
+732,Jira
+732,Docker
+733,SQL
+733,R
+733,Snowflake
+734,SQL
+734,Tableau
+734,Power BI
+734,R
+735,SQL
+735,R
+735,Azure
+735,Airflow
+736,Power BI
+736,R
+736,Machine Learning
+736,Kubernetes
+737,Excel
+737,Tableau
+737,Machine Learning
+737,Git
+737,Kubernetes
+738,Excel
+738,Jira
+738,Kubernetes
+739,Python
+739,AWS
+739,Google Cloud
+739,Snowflake
+739,Looker
+739,Jira
+740,Excel
+740,R
+740,Azure
+740,Google Cloud
+740,Statistics
+740,Hadoop
+740,Airflow
+741,SQL
+741,Python
+741,Tableau
+741,Spark
+741,Hadoop
+741,Snowflake
+741,Kubernetes
+741,Airflow
+742,SQL
+742,Python
+742,Tableau
+742,Spark
+743,Python
+743,AWS
+743,Docker
+744,SQL
+744,Python
+744,Tableau
+744,Azure
+744,Hadoop
+744,Snowflake
+745,Tableau
+745,Power BI
+745,R
+745,Snowflake
+745,Looker
+745,Jira
+745,Kubernetes
+746,R
+746,Google Cloud
+746,Machine Learning
+746,Hadoop
+746,Snowflake
+746,Looker
+746,Kubernetes
+747,Excel
+747,Spark
+747,Hadoop
+747,Git
+748,Python
+748,Spark
+748,Looker
+748,Jira
+748,Kubernetes
+748,Airflow
+749,SQL
+749,Excel
+749,Tableau
+749,Power BI
+749,R
+749,Statistics
+749,Airflow
+750,R
+750,Machine Learning
+750,Statistics
+750,Looker
+750,Jira
+750,Docker
+750,Kubernetes
+751,SQL
+751,R
+751,AWS
+751,Machine Learning
+752,Excel
+752,Tableau
+752,Power BI
+752,Machine Learning
+752,Spark
+752,Jira
+752,Kubernetes
+753,R
+753,Google Cloud
+753,Spark
+753,Hadoop
+753,Looker
+753,Git
+753,Docker
+753,Airflow
+754,Python
+754,Power BI
+754,Google Cloud
+754,Machine Learning
+754,Hadoop
+754,Git
+754,Docker
+755,Python
+755,Power BI
+755,Azure
+755,Machine Learning
+755,Spark
+755,Docker
+755,Kubernetes
+756,R
+756,AWS
+756,Azure
+756,Spark
+756,Looker
+756,Jira
+756,Git
+757,SQL
+757,Tableau
+757,R
+757,AWS
+757,Spark
+757,Snowflake
+757,Jira
+757,Docker
+758,Python
+758,R
+758,AWS
+758,Machine Learning
+758,Looker
+758,Docker
+758,Airflow
+759,Python
+759,Excel
+759,AWS
+759,Spark
+760,R
+760,Spark
+760,Kubernetes
+761,Power BI
+761,AWS
+761,Google Cloud
+761,Kubernetes
+761,Airflow
+762,Python
+762,Spark
+762,Snowflake
+762,Looker
+762,Kubernetes
+763,SQL
+763,Python
+763,Power BI
+763,Machine Learning
+763,Statistics
+763,Jira
+763,Airflow
+764,Tableau
+764,Power BI
+764,R
+764,Spark
+764,Docker
+765,Excel
+765,Tableau
+765,Machine Learning
+765,Snowflake
+765,Jira
+765,Airflow
+766,R
+766,AWS
+766,Azure
+766,Docker
+766,Airflow
+767,Hadoop
+767,Git
+767,Docker
+768,Python
+768,Tableau
+768,Power BI
+768,Azure
+768,Spark
+769,Tableau
+769,Power BI
+769,Azure
+769,Statistics
+769,Snowflake
+769,Git
+770,Azure
+770,Machine Learning
+770,Statistics
+770,Spark
+771,Python
+771,Excel
+771,Git
+772,Tableau
+772,Power BI
+772,Hadoop
+772,Jira
+772,Git
+773,SQL
+773,R
+773,Machine Learning
+773,Git
+774,Tableau
+774,AWS
+774,Statistics
+775,Excel
+775,AWS
+775,Machine Learning
+775,Spark
+775,Snowflake
+775,Looker
+776,Tableau
+776,Hadoop
+776,Jira
+777,SQL
+777,Python
+777,Looker
+777,Jira
+777,Git
+777,Docker
+777,Kubernetes
+777,Airflow
+778,Power BI
+778,R
+778,Google Cloud
+778,Spark
+778,Hadoop
+778,Git
+779,Python
+779,Excel
+779,Power BI
+779,AWS
+779,Azure
+779,Machine Learning
+779,Snowflake
+779,Looker
+779,Kubernetes
+780,Power BI
+780,Azure
+780,Snowflake
+780,Git
+780,Docker
+781,SQL
+781,Python
+781,Azure
+781,Machine Learning
+781,Docker
+781,Kubernetes
+782,AWS
+782,Looker
+782,Git
+783,SQL
+783,Python
+783,Power BI
+783,R
+783,Spark
+783,Jira
+783,Git
+783,Airflow
+784,Python
+784,Excel
+784,Tableau
+784,R
+784,AWS
+784,Machine Learning
+784,Kubernetes
+785,Python
+785,Excel
+785,Google Cloud
+785,Machine Learning
+786,SQL
+786,Excel
+786,Tableau
+786,Machine Learning
+786,Jira
+786,Kubernetes
+787,Google Cloud
+787,Statistics
+787,Kubernetes
+788,SQL
+788,Python
+788,Tableau
+788,Power BI
+788,Snowflake
+789,Tableau
+789,Statistics
+789,Jira
+789,Airflow
+790,SQL
+790,Python
+790,Excel
+790,Power BI
+790,R
+790,Machine Learning
+790,Docker
+791,Excel
+791,Google Cloud
+791,Spark
+791,Looker
+791,Git
+792,Excel
+792,Google Cloud
+792,Hadoop
+792,Snowflake
+792,Looker
+793,Python
+793,R
+793,Google Cloud
+793,Machine Learning
+793,Statistics
+793,Spark
+793,Looker
+793,Airflow
+794,Google Cloud
+794,Hadoop
+794,Jira
+794,Git
+794,Airflow
+795,Excel
+795,AWS
+795,Jira
+795,Airflow
+796,Excel
+796,R
+796,Azure
+796,Statistics
+796,Hadoop
+796,Snowflake
+796,Looker
+797,Excel
+797,Tableau
+797,Spark
+797,Docker
+798,SQL
+798,Machine Learning
+798,Snowflake
+798,Docker
+799,Excel
+799,Power BI
+799,AWS
+799,Spark
+799,Jira
+799,Kubernetes
+799,Airflow
+800,Excel
+800,Azure
+800,Google Cloud
+800,Statistics
+800,Hadoop
+800,Snowflake
+800,Looker
+800,Docker
+801,SQL
+801,Python
+801,AWS
+801,Spark
+801,Hadoop
+801,Snowflake
+802,AWS
+802,Google Cloud
+802,Machine Learning
+802,Statistics
+802,Spark
+802,Snowflake
+802,Looker
+802,Jira
+803,Excel
+803,Tableau
+803,Power BI
+803,Statistics
+803,Hadoop
+803,Jira
+803,Git
+804,Python
+804,Excel
+804,Tableau
+804,Google Cloud
+804,Snowflake
+804,Jira
+804,Git
+804,Docker
+805,SQL
+805,Python
+805,Excel
+805,AWS
+805,Docker
+806,Python
+806,Power BI
+806,Azure
+806,Google Cloud
+806,Machine Learning
+806,Spark
+806,Snowflake
+806,Git
+807,Python
+807,Machine Learning
+807,Statistics
+807,Airflow
+808,Azure
+808,Machine Learning
+808,Looker
+808,Jira
+808,Kubernetes
+809,Power BI
+809,Statistics
+809,Docker
+810,R
+810,AWS
+810,Azure
+810,Google Cloud
+810,Snowflake
+810,Jira
+811,SQL
+811,Tableau
+811,R
+811,Looker
+811,Jira
+811,Git
+812,Python
+812,Power BI
+812,Spark
+812,Jira
+812,Docker
+812,Airflow
+813,Excel
+813,Statistics
+813,Git
+813,Docker
+814,Tableau
+814,Power BI
+814,Azure
+814,Google Cloud
+814,Snowflake
+814,Jira
+814,Git
+815,R
+815,Google Cloud
+815,Machine Learning
+815,Git
+815,Kubernetes
+815,Airflow
+816,Azure
+816,Snowflake
+816,Jira
+816,Git
+817,Excel
+817,Tableau
+817,Spark
+817,Jira
+817,Git
+817,Docker
+817,Airflow
+818,Excel
+818,Tableau
+818,Spark
+818,Hadoop
+818,Docker
+819,SQL
+819,Tableau
+819,Power BI
+819,Jira
+819,Docker
+820,Python
+820,Tableau
+820,Google Cloud
+820,Statistics
+820,Hadoop
+820,Docker
+821,SQL
+821,Tableau
+821,Power BI
+821,Machine Learning
+821,Snowflake
+821,Jira
+821,Airflow
+822,Power BI
+822,Machine Learning
+822,Statistics
+822,Snowflake
+822,Kubernetes
+823,SQL
+823,Power BI
+823,R
+823,Azure
+823,Spark
+823,Looker
+823,Jira
+823,Docker
+824,Python
+824,Excel
+824,AWS
+824,Spark
+824,Kubernetes
+825,Tableau
+825,Machine Learning
+825,Statistics
+825,Looker
+825,Git
+825,Docker
+826,Tableau
+826,AWS
+826,Spark
+826,Hadoop
+826,Looker
+826,Git
+826,Kubernetes
+827,Azure
+827,Hadoop
+827,Git
+827,Docker
+828,SQL
+828,Python
+828,Statistics
+828,Snowflake
+828,Git
+828,Docker
+828,Kubernetes
+829,SQL
+829,Excel
+829,AWS
+829,Machine Learning
+830,Google Cloud
+830,Machine Learning
+830,Kubernetes
+831,Power BI
+831,R
+831,Snowflake
+831,Kubernetes
+832,Excel
+832,Tableau
+832,Power BI
+832,AWS
+832,Spark
+832,Jira
+832,Docker
+832,Kubernetes
+833,Azure
+833,Statistics
+833,Kubernetes
+834,SQL
+834,Excel
+834,Power BI
+834,Statistics
+834,Spark
+834,Hadoop
+834,Looker
+834,Jira
+835,AWS
+835,Jira
+835,Docker
+836,Azure
+836,Machine Learning
+836,Spark
+836,Docker
+836,Airflow
+837,Excel
+837,Power BI
+837,Google Cloud
+837,Spark
+837,Snowflake
+837,Jira
+837,Git
+838,R
+838,Jira
+838,Git
+839,Excel
+839,Power BI
+839,R
+839,Azure
+839,Snowflake
+839,Looker
+839,Docker
+840,Excel
+840,Azure
+840,Google Cloud
+841,SQL
+841,Power BI
+841,Azure
+841,Google Cloud
+841,Statistics
+841,Docker
+842,Power BI
+842,Snowflake
+842,Git
+843,SQL
+843,Snowflake
+843,Looker
+843,Jira
+844,Tableau
+844,AWS
+844,Machine Learning
+845,Tableau
+845,AWS
+845,Machine Learning
+845,Statistics
+845,Snowflake
+845,Jira
+845,Git
+845,Kubernetes
+846,Excel
+846,Tableau
+846,R
+846,AWS
+846,Git
+846,Docker
+846,Kubernetes
+847,SQL
+847,Tableau
+847,Looker
+847,Airflow
+848,Excel
+848,R
+848,Statistics
+849,Machine Learning
+849,Spark
+849,Snowflake
+849,Kubernetes
+850,SQL
+850,Tableau
+850,R
+850,Hadoop
+850,Jira
+850,Git
+850,Docker
+850,Airflow
+851,Google Cloud
+851,Statistics
+851,Hadoop
+851,Git
+852,Python
+852,Power BI
+852,Statistics
+852,Spark
+852,Snowflake
+852,Docker
+852,Airflow
+853,Python
+853,AWS
+853,Machine Learning
+854,Excel
+854,R
+854,AWS
+854,Azure
+854,Machine Learning
+854,Spark
+854,Jira
+854,Docker
+855,Python
+855,Excel
+855,R
+855,Google Cloud
+855,Statistics
+855,Airflow
+856,Tableau
+856,R
+856,AWS
+856,Azure
+856,Git
+856,Docker
+856,Kubernetes
+856,Airflow
+857,Python
+857,Tableau
+857,Power BI
+857,Machine Learning
+857,Spark
+858,Power BI
+858,Statistics
+858,Hadoop
+858,Kubernetes
+858,Airflow
+859,Azure
+859,Google Cloud
+859,Statistics
+860,Power BI
+860,Hadoop
+860,Snowflake
+861,Python
+861,Power BI
+861,R
+861,Hadoop
+861,Snowflake
+861,Jira
+862,Azure
+862,Google Cloud
+862,Machine Learning
+862,Statistics
+862,Docker
+863,SQL
+863,Statistics
+863,Airflow
+864,SQL
+864,AWS
+864,Machine Learning
+864,Statistics
+864,Spark
+864,Git
+864,Kubernetes
+865,Excel
+865,Power BI
+865,R
+865,Google Cloud
+865,Statistics
+865,Hadoop
+865,Looker
+865,Jira
+866,Excel
+866,Tableau
+866,R
+866,Google Cloud
+866,Looker
+866,Jira
+866,Docker
+867,SQL
+867,Tableau
+867,Machine Learning
+867,Spark
+867,Airflow
+868,SQL
+868,Python
+868,Azure
+868,Google Cloud
+868,Statistics
+868,Spark
+868,Hadoop
+868,Looker
+869,SQL
+869,Machine Learning
+869,Statistics
+869,Spark
+869,Snowflake
+870,Tableau
+870,Hadoop
+870,Snowflake
+871,Excel
+871,Tableau
+871,AWS
+871,Azure
+871,Statistics
+871,Spark
+871,Git
+871,Airflow
+872,Excel
+872,Statistics
+872,Looker
+872,Git
+872,Docker
+872,Kubernetes
+873,SQL
+873,Excel
+873,Tableau
+873,Statistics
+873,Hadoop
+874,SQL
+874,Excel
+874,Power BI
+874,R
+874,Google Cloud
+874,Snowflake
+874,Jira
+874,Airflow
+875,Excel
+875,Tableau
+875,Power BI
+875,Spark
+875,Jira
+875,Git
+875,Docker
+876,Power BI
+876,R
+876,AWS
+877,Looker
+877,Jira
+877,Kubernetes
+878,SQL
+878,AWS
+878,Azure
+878,Looker
+878,Jira
+879,Tableau
+879,R
+879,AWS
+879,Google Cloud
+879,Snowflake
+879,Kubernetes
+880,Snowflake
+880,Looker
+880,Git
+880,Kubernetes
+881,SQL
+881,Python
+881,Tableau
+881,Airflow
+882,R
+882,Machine Learning
+882,Looker
+882,Jira
+882,Git
+882,Docker
+882,Airflow
+883,Python
+883,Excel
+883,Power BI
+883,R
+883,Google Cloud
+883,Jira
+883,Airflow
+884,SQL
+884,Excel
+884,Power BI
+884,Statistics
+884,Hadoop
+884,Jira
+884,Docker
+884,Kubernetes
+885,Python
+885,AWS
+885,Azure
+885,Machine Learning
+885,Looker
+885,Docker
+885,Kubernetes
+885,Airflow
+886,R
+886,Machine Learning
+886,Airflow
+887,AWS
+887,Statistics
+887,Looker
+887,Airflow
+888,Tableau
+888,R
+888,AWS
+888,Machine Learning
+888,Kubernetes
+889,SQL
+889,Excel
+889,Power BI
+889,Azure
+889,Machine Learning
+889,Statistics
+889,Hadoop
+889,Kubernetes
+890,Python
+890,Tableau
+890,R
+890,Azure
+890,Hadoop
+890,Snowflake
+891,Excel
+891,Power BI
+891,AWS
+891,Machine Learning
+891,Looker
+891,Docker
+891,Airflow
+892,Google Cloud
+892,Spark
+892,Snowflake
+892,Git
+893,Power BI
+893,Google Cloud
+893,Machine Learning
+893,Jira
+893,Docker
+894,Excel
+894,Power BI
+894,Google Cloud
+894,Spark
+894,Jira
+894,Docker
+894,Kubernetes
+894,Airflow
+895,SQL
+895,Statistics
+895,Hadoop
+895,Looker
+895,Docker
+895,Kubernetes
+896,Power BI
+896,AWS
+896,Azure
+896,Machine Learning
+896,Hadoop
+897,Power BI
+897,Snowflake
+897,Git
+897,Docker
+898,Python
+898,Excel
+898,Hadoop
+898,Looker
+898,Docker
+898,Airflow
+899,Azure
+899,Spark
+899,Jira
+899,Git
+900,Python
+900,Power BI
+900,R
+900,Statistics
+900,Spark
+901,Python
+901,Excel
+901,Tableau
+901,AWS
+901,Machine Learning
+901,Hadoop
+901,Snowflake
+901,Jira
+902,Python
+902,Excel
+902,Statistics
+902,Airflow
+903,Excel
+903,Google Cloud
+903,Statistics
+903,Snowflake
+904,Machine Learning
+904,Hadoop
+904,Airflow
+905,Power BI
+905,Machine Learning
+905,Statistics
+905,Spark
+905,Snowflake
+905,Jira
+905,Airflow
+906,SQL
+906,Python
+906,R
+906,AWS
+906,Azure
+906,Hadoop
+907,Tableau
+907,AWS
+907,Spark
+907,Docker
+908,SQL
+908,Excel
+908,Airflow
+909,Tableau
+909,Google Cloud
+909,Spark
+909,Git
+909,Docker
+910,Power BI
+910,Spark
+910,Snowflake
+910,Jira
+911,Snowflake
+911,Git
+911,Kubernetes
+912,Excel
+912,Machine Learning
+912,Statistics
+912,Looker
+912,Jira
+913,Excel
+913,Tableau
+913,Power BI
+913,Machine Learning
+913,Statistics
+913,Hadoop
+913,Looker
+913,Airflow
+914,SQL
+914,Python
+914,Excel
+915,SQL
+915,Python
+915,Excel
+915,Power BI
+915,Spark
+915,Jira
+916,SQL
+916,Excel
+916,Tableau
+916,AWS
+916,Git
+917,Python
+917,Excel
+917,Tableau
+917,Google Cloud
+917,Docker
+917,Kubernetes
+918,SQL
+918,Python
+918,Excel
+918,Power BI
+918,R
+918,Machine Learning
+918,Jira
+918,Kubernetes
+919,Python
+919,Excel
+919,AWS
+919,Azure
+919,Statistics
+919,Snowflake
+919,Docker
+919,Airflow
+920,Excel
+920,Tableau
+920,R
+920,AWS
+920,Hadoop
+920,Airflow
+921,Python
+921,Excel
+921,Power BI
+921,R
+921,Machine Learning
+921,Looker
+922,SQL
+922,Python
+922,Hadoop
+922,Looker
+923,SQL
+923,Power BI
+923,R
+923,AWS
+923,Azure
+923,Machine Learning
+923,Spark
+923,Git
+924,Python
+924,Power BI
+924,Azure
+924,Google Cloud
+924,Machine Learning
+924,Spark
+924,Looker
+924,Docker
+925,Excel
+925,Tableau
+925,R
+925,Statistics
+925,Git
+925,Airflow
+926,R
+926,Docker
+926,Kubernetes
+927,SQL
+927,Hadoop
+927,Git
+927,Kubernetes
+927,Airflow
+928,Python
+928,Excel
+928,Tableau
+928,Power BI
+928,Machine Learning
+928,Spark
+928,Hadoop
+928,Docker
+929,Excel
+929,AWS
+929,Azure
+929,Hadoop
+929,Jira
+929,Docker
+930,SQL
+930,Spark
+930,Hadoop
+930,Jira
+930,Kubernetes
+931,SQL
+931,AWS
+931,Azure
+931,Spark
+931,Snowflake
+932,Power BI
+932,Machine Learning
+932,Kubernetes
+933,Tableau
+933,Power BI
+933,R
+933,Machine Learning
+933,Spark
+934,AWS
+934,Azure
+934,Hadoop
+934,Jira
+934,Git
+935,Python
+935,Azure
+935,Google Cloud
+935,Snowflake
+935,Looker
+935,Git
+935,Kubernetes
+936,SQL
+936,R
+936,Looker
+936,Git
+936,Docker
+936,Kubernetes
+936,Airflow
+937,R
+937,AWS
+937,Spark
+937,Hadoop
+937,Kubernetes
+938,R
+938,Snowflake
+938,Git
+938,Docker
+938,Kubernetes
+939,Python
+939,Spark
+939,Hadoop
+939,Airflow
+940,SQL
+940,Python
+940,R
+940,Statistics
+940,Hadoop
+940,Snowflake
+941,R
+941,AWS
+941,Machine Learning
+941,Jira
+941,Git
+941,Docker
+942,SQL
+942,Python
+942,Azure
+942,Machine Learning
+942,Spark
+942,Docker
+943,Excel
+943,Power BI
+943,Hadoop
+943,Kubernetes
+944,Excel
+944,Azure
+944,Docker
+945,Excel
+945,Statistics
+945,Spark
+945,Looker
+945,Kubernetes
+945,Airflow
+946,Power BI
+946,AWS
+946,Azure
+946,Snowflake
+946,Airflow
+947,SQL
+947,AWS
+947,Azure
+947,Hadoop
+947,Snowflake
+948,Python
+948,Tableau
+948,Kubernetes
+948,Airflow
+949,Tableau
+949,Power BI
+949,Airflow
+950,Python
+950,AWS
+950,Kubernetes
+950,Airflow
+951,Excel
+951,Tableau
+951,Statistics
+951,Snowflake
+951,Airflow
+952,Azure
+952,Google Cloud
+952,Spark
+952,Airflow
+953,Excel
+953,Azure
+953,Google Cloud
+953,Machine Learning
+953,Statistics
+953,Git
+953,Airflow
+954,Python
+954,AWS
+954,Spark
+954,Hadoop
+954,Looker
+954,Jira
+955,SQL
+955,Python
+955,AWS
+955,Machine Learning
+955,Statistics
+955,Spark
+955,Snowflake
+955,Jira
+956,Python
+956,Tableau
+956,Power BI
+956,AWS
+956,Machine Learning
+956,Spark
+956,Hadoop
+956,Docker
+957,Python
+957,R
+957,AWS
+957,Google Cloud
+957,Statistics
+957,Docker
+957,Airflow
+958,Power BI
+958,R
+958,AWS
+958,Machine Learning
+958,Looker
+958,Docker
+959,Excel
+959,Azure
+959,Hadoop
+959,Looker
+959,Git
+959,Docker
+959,Kubernetes
+959,Airflow
+960,Excel
+960,AWS
+960,Machine Learning
+960,Statistics
+961,Power BI
+961,R
+961,Spark
+961,Hadoop
+961,Git
+962,Excel
+962,R
+962,Azure
+962,Statistics
+962,Hadoop
+962,Looker
+962,Kubernetes
+962,Airflow
+963,Excel
+963,AWS
+963,Google Cloud
+963,Hadoop
+963,Looker
+964,Python
+964,AWS
+964,Spark
+964,Airflow
+965,Tableau
+965,Git
+965,Docker
+966,Azure
+966,Spark
+966,Looker
+967,Tableau
+967,Power BI
+967,R
+967,AWS
+967,Azure
+967,Statistics
+967,Looker
+968,R
+968,Machine Learning
+968,Jira
+968,Airflow
+969,Power BI
+969,R
+969,Docker
+969,Kubernetes
+970,Python
+970,R
+970,Hadoop
+970,Looker
+970,Kubernetes
+970,Airflow
+971,SQL
+971,Machine Learning
+971,Spark
+971,Git
+971,Kubernetes
+972,Python
+972,Power BI
+972,Google Cloud
+972,Spark
+972,Docker
+973,SQL
+973,R
+973,Machine Learning
+973,Git
+974,Power BI
+974,Hadoop
+974,Snowflake
+975,Python
+975,Excel
+975,R
+975,AWS
+975,Machine Learning
+975,Statistics
+975,Spark
+975,Git
+976,AWS
+976,Azure
+976,Hadoop
+976,Looker
+976,Docker
+976,Airflow
+977,Tableau
+977,R
+977,Machine Learning
+977,Hadoop
+977,Snowflake
+977,Jira
+978,SQL
+978,Machine Learning
+978,Statistics
+978,Hadoop
+978,Snowflake
+978,Looker
+978,Git
+979,Spark
+979,Hadoop
+979,Snowflake
+979,Git
+980,Python
+980,Tableau
+980,R
+980,Spark
+980,Snowflake
+980,Looker
+980,Git
+980,Airflow
+981,SQL
+981,Python
+981,AWS
+981,Azure
+981,Google Cloud
+981,Machine Learning
+981,Git
+982,R
+982,Google Cloud
+982,Statistics
+982,Snowflake
+982,Git
+983,Python
+983,Statistics
+983,Hadoop
+983,Looker
+983,Jira
+983,Docker
+984,Tableau
+984,Machine Learning
+984,Spark
+984,Snowflake
+984,Kubernetes
+985,Excel
+985,Tableau
+985,R
+985,Statistics
+985,Docker
+986,SQL
+986,Python
+986,Excel
+986,AWS
+986,Azure
+986,Statistics
+986,Git
+986,Docker
+987,SQL
+987,R
+987,AWS
+987,Machine Learning
+987,Docker
+988,SQL
+988,Power BI
+988,AWS
+988,Azure
+988,Statistics
+988,Snowflake
+988,Kubernetes
+989,R
+989,Google Cloud
+989,Machine Learning
+989,Statistics
+989,Spark
+989,Hadoop
+989,Looker
+990,Power BI
+990,R
+990,Azure
+990,Google Cloud
+990,Jira
+990,Kubernetes
+991,Machine Learning
+991,Snowflake
+991,Git
+992,Excel
+992,Power BI
+992,Spark
+993,Python
+993,Tableau
+993,R
+993,Machine Learning
+993,Statistics
+993,Git
+993,Docker
+993,Kubernetes
+994,Excel
+994,R
+994,Machine Learning
+994,Statistics
+995,Python
+995,R
+995,Hadoop
+995,Jira
+995,Docker
+996,SQL
+996,Python
+996,Excel
+996,Machine Learning
+996,Statistics
+996,Jira
+996,Docker
+997,Azure
+997,Spark
+997,Hadoop
+997,Snowflake
+997,Looker
+997,Airflow
+998,Azure
+998,Google Cloud
+998,Statistics
+998,Hadoop
+998,Kubernetes
+999,R
+999,Google Cloud
+999,Looker
+1000,R
+1000,Statistics
+1000,Spark
+1000,Hadoop
