@@ -18,7 +18,7 @@ Copy and run the following commands in your terminal (Command Prompt or PowerShe
 
 ```bash
 # 1. Link your local folder to GitHub
-git remote add origin https://github.com/YOUR_USERNAME/job-market-analytics.git
+git remote add origin https://github.com/psaluja1/job-market-analytics.git
 
 # 2. Rename the branch to main (standard practice)
 git branch -M main
