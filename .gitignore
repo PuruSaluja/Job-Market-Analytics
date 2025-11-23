@@ -1,0 +1,20 @@
+# Python
+__pycache__/
+*.pyc
+
+# Database
+*.db
+*.sqlite3
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# We will keep the data and plots for the portfolio showcase, 
+# but typically you might ignore them in a real production app.
+# /data
+# /analysis/plots
