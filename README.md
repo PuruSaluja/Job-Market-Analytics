@@ -57,9 +57,14 @@ graph TD
 - **Top Skills**: SQL, Python, and Excel remain the most demanded skills.
 - **Salary Trends**: Specialized roles like "Machine Learning Engineer" command higher salaries.
 - **Remote Work**: Significant portion of jobs offer remote options.
+- **AI/ML Surge**: Demand for AI and ML roles grew significantly in 2024-2025 compared to prior years.
 
 ## 📄 Resume Bullet Points
 - **Built an end-to-end analytics system** using Python, SQL, and NLP to process 1,000+ job postings, identifying key market trends for 2024-2025.
 - **Designed and implemented an ETL pipeline** that reduced data cleaning time by 40% and loaded structured data into a SQLite warehouse.
 - **Developed a custom NLP-based skill extraction module** to parse job descriptions, mapping 50+ technical skills to job roles for demand analysis.
 - **Created an interactive Power BI dashboard** to visualize salary distributions and skill gaps, providing actionable insights for career planning.
+
+## 📬 Contact
+**Author**: Puru Saluja
+**GitHub**: [PuruSaluja](https://github.com/PuruSaluja)
